@@ -3,19 +3,23 @@
     "respuesta": "Invertir en pozo es básicamente una pre-venta. Significa comprar un inmueble antes de que el mismo se termine en un 100%. Por otro lado, su rentabilidad se debe a que, al no estar totalmente construido, tiene un valor bajo, y al momento de venderlo, ya terminado, su valor aumentó y, por lo tanto, se obtiene una gran diferencia."
 },
 {
-    "pregunta": "La respuesta a la pregunta N°2",
-    "respuesta": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum omnis hic non inventore facilis distinctio reiciendis eveniet, tempore sed sunt a culpa ea vero nulla exercitationem recusandae aliquid est maxime?"
+    "pregunta": "¿Cómo es la financiación?",
+    "respuesta": "Ofrecemos financiación propia y personalizada. La misma se realiza sobre el monto restante luego de un anticipo. Por otro lado, la financiación es personalizada, ya que se lleva a cabo según la situación de cada cliente. Se tiene en cuenta el anticipo con el cual accedió a la unidad, el monto de las cuotas que puede abonar por mes, si tiene la posibilidad o no de brindar un refuerzo, y el ajuste según el CAC (Cámara Argentina de Construcción)"
 },
 {
-    "pregunta": "La respuesta a la pregunta N°3",
-    "respuesta": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum omnis hic non inventore facilis distinctio reiciendis eveniet, tempore sed sunt a culpa ea vero nulla exercitationem recusandae aliquid est maxime?"
+    "pregunta": "¿Cuál es el valor de un anticipo?",
+    "respuesta": "Es el 60/70% del valor de la propiedad aproximadamente. Mediante el mismo ya se puede acceder a la vivienda."
 },
 {
-    "pregunta": "La respuesta a la pregunta N°4",
-    "respuesta": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eum omnis hic non inventore facilis distinctio reiciendis eveniet, tempore sed sunt a culpa ea vero nulla exercitationem recusandae aliquid est maxime?"
+    "pregunta": "¿Qué es un refuerzo?",
+    "respuesta": "Es el pago de un monto que se adiciona a las cuotas habituales. Es un adelanto del saldo adeudado. Los clientes lo pactan, por ejemplo, si saben que van a cobrar un aguinaldo, un bono, una herencia, la venta de un vehículo, entre otros."
 },
 {
-    "pregunta": "Que dia es hoy?",
-    "respuesta": "sdhauasadasdasda"
+    "pregunta": "¿Se aceptan vehículos en parte de pago?",
+    "respuesta": "Así es. Se acuerda un valor entre las partes."
+},
+{
+    "pregunta": "¿Cuál es la diferencia con un fideicomiso?",
+    "respuesta": "Nosotros sí escrituramos"
 }
 ]
