@@ -1,11 +1,11 @@
 [{
-        "nombre": "Mariana",
-        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis.",
+        "nombre": "Cecilia Y Jesús Piscitello",
+        "testimonio": "Nuestro informe para la empresa constructora que diseñó y construyó el Complejo las Cañitas de San Ignacio, compuesto por 50 departamentos, de los cuales somos propietarios de 2 unidades,estamos muy conformes con el proyecto. Por lo tanto los felicitamos y sin más los saludamos cordialmente.",
         "img": "./img/imgnosotros.jpg"
     },
     {
-        "nombre": "Juan",
-        "testimonio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue venenatis duis. Aenean elit magna ultricies sed.",
+        "nombre": "Karina Rodriguez",
+        "testimonio": "Quiero dejar mi testimonio de haber invertido con la constructora, unos ahorros, en la compra de inmueble. Hoy soy propietaria con las escrituras ya en mi poder. Todo los plazos fueron cumplidos en tiempo estimado. Estoy muy contenta con la adquisición y haberlo hecho a través de personas de confianza.",
         "img": "./img/imgnosotros.jpg"
     },
     {
