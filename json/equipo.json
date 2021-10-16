@@ -7,13 +7,19 @@
     {
         "imagen": "./img/imgnosotros.jpg",
         "alt": "",
-        "integrante": "Cintia",
+        "integrante": "Claudio Pintos",
         "area": "Redes Sociales"
     },
     {
         "imagen": "./img/imgnosotros.jpg",
         "alt": "",
-        "integrante": "Cintia",
+        "integrante": "Cristina Kovacs",
+        "area": "Redes Sociales"
+    },
+   {
+        "imagen": "./img/imgnosotros.jpg",
+        "alt": "",
+        "integrante": "Jorge Ibarrola",
         "area": "Redes Sociales"
     }
 ]
