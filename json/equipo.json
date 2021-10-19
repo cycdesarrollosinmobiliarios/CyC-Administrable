@@ -1,25 +1,31 @@
 [{
         "imagen": "./img/imgnosotros.jpg",
         "alt": "Marketing y Broker Inmobiliario",
-        "integrante": "Cintia Pintos Kovacs",
+        "integrante": "Cintia",
         "area": "Marketing y Broker Inmobiliario"
     },
     {
         "imagen": "./img/imgnosotros.jpg",
         "alt": "",
-        "integrante": "Claudio Pintos",
-        "area": "Redes Sociales"
+        "integrante": "Claudio",
+        "area": "Gerente de compras y operaciones"
     },
     {
         "imagen": "./img/imgnosotros.jpg",
         "alt": "",
-        "integrante": "Cristina Kovacs",
-        "area": "Redes Sociales"
+        "integrante": "Cristina",
+        "area": "CEO"
     },
    {
         "imagen": "./img/imgnosotros.jpg",
         "alt": "",
-        "integrante": "Jorge Ibarrola",
-        "area": "Redes Sociales"
+        "integrante": "Jorge",
+        "area": "Broker inmobiliario, administración y post venta"
+    },
+   {
+        "imagen": "./img/imgnosotros.jpg",
+        "alt": "",
+        "integrante": "Oriana",
+        "area": "Community manager"
     }
 ]
