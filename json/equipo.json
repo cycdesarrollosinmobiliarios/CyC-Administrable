@@ -1,31 +1,25 @@
 [{
         "imagen": "./img/imgnosotros.jpg",
-        "alt": "Marketing y Broker Inmobiliario",
-        "integrante": "Cintia",
-        "area": "Marketing y Broker Inmobiliario"
+        "alt": "CEO constructora",
+        "integrante": "Cristina",
+        "area": "CEO"
     },
     {
         "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
+        "alt": "compras constructora",
         "integrante": "Claudio",
         "area": "Gerente de compras y operaciones"
     },
     {
         "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
-        "integrante": "Cristina",
-        "area": "CEO"
-    },
-   {
-        "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
+        "alt": "broker inmobiliario",
         "integrante": "Jorge",
         "area": "Broker inmobiliario, administración y post venta"
     },
    {
         "imagen": "./img/imgnosotros.jpg",
-        "alt": "",
-        "integrante": "Oriana",
-        "area": "Community manager"
+        "alt": "marketing y broker inmobiliario",
+        "integrante": "Cintia",
+        "area": "Marketing y broker inmobiliario"
     }
 ]
