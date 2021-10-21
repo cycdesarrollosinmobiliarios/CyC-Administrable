@@ -6,11 +6,11 @@
             "categoria": "enConstruccion",
             "sliderImagen":[
                 {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840874/Cadiz/exterior_dia_base_wwgbnj.jpg",
+                    "alt": "edificio cadiz san miguel"
                 },
                 {
-                    "img": "./img/Slider3.jpg",
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
                     "alt": ""
                 },
                 {
