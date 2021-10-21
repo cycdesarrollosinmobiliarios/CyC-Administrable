@@ -2,30 +2,30 @@
         "id": 1,
         "categoria": "finalizados",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S50.000",
-        "titulo": "Cañitas",
-        "informacion": "2,3 y 4 ambientes",
-        "domicilio": "Italia 2131, San Miguel",
+        "precio": "Venta Retazado - U$S98.000",
+        "titulo": "Complejo San Lorenzo",
+        "informacion": "3 Ambientes",
+        "domicilio": "San Lorenzo 2369, San Miguel",
         "enlace": "Más Información"
     },
     {
         "id": 2,
         "categoria": "finalizados",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S50.000",
-        "titulo": "Cañitas",
-        "informacion": "2,3 y 4 ambientes",
-        "domicilio": "Italia 2131, San Miguel",
+        "precio": "Venta - U$S110.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "4 Ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
         "enlace": "Más Información"
     },
     {
         "id": 3,
-        "categoria": "finalizados",
+        "categoria": "en construcción",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S50.000",
-        "titulo": "Cañitas",
-        "informacion": "2,3 y 4 ambientes",
-        "domicilio": "Italia 2131, San Miguel",
+        "precio": "Venta - U$S65.000",
+        "titulo": "La Mansa II",
+        "informacion": "3 Ambientes",
+        "domicilio": "Muñoz 2991, San Miguel",
         "enlace": "Más Información"
     }
 ]
