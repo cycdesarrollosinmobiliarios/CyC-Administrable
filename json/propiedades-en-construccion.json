@@ -45,7 +45,7 @@
             "orientacion": "(NE)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
             "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
