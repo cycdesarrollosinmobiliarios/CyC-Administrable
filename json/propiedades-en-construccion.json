@@ -14,11 +14,11 @@
                     "alt": ""
                 },
                 {
-                    "img": "./img/Slider1.jpg",
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840871/Cadiz/comedor_mafaye.jpg",
                     "alt": ""
                 },
-                                {
-                    "img": "./img/Slider1.jpg",
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
                     "alt": ""
                 }
             ],
@@ -38,11 +38,11 @@
             "dtosPorPiso":"2",
             "informacionGeneral": "Viví en Cadiz, una zona residencial arbolada. Es un edificio boutique valorizado por su ubicación cercana al centro comercial, shopping y centros recreativos.",
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
-            "patio":true,
+            "patio":false,
             "laundry":true,
             "ascensores":true,
             "cocherasCubiertas":true,
-            "orientacion": "(SO)",
+            "orientacion": "(NE)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
             "imagenDosAmbientes": "./img/canitashome1.jpeg",
