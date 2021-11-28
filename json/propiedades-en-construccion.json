@@ -80,14 +80,14 @@
             "nombre": "Casa 4 ambientes",
             "altura": "",
             "ubicacion": "Belgrano 113, San miguel",
-            "ambientes": "4"
+            "ambientes": "4",
             "informacionGeneral": "Chalet en proceso de remodelación a nuevo, con fecha de finalización Noviembre 2021. Se destaca por su ubicación estratégica en Belgrano 113, ya que se encuentra a una cuadra de la intersección entre Ruta 8 y balbín, donde se encuentran la terminal del ferrocarril Urquiza, terminal de ómnibus y shopping Terrazas de Mayo.",
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":true,
             "laundry":true,
             "ascensores":false,
             "cocherasCubiertas":true,
-            "orientacion": "(SO)"
+            "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": false,
             "imagenDosAmbientes": "./img/canitashome1.jpeg",
