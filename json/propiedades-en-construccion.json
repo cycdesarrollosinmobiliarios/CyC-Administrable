@@ -36,7 +36,38 @@
             "pisos":"5",
             "dtos": "9",
             "dtosPorPiso":"2",
-            "informacionGeneral": " Viví en Cadiz, una zona residencial arbolada. Es un edificio boutique valorizado por su ubicación cercana al centro comercial, shopping y centros recreativos. Todas las unidades cuentan con cochera opcionales, un amplio balcón, gas natural, pisos de porcelanato, ventanas de aluminio Aluar, instalación para colocación de lavarropas y aire acondicionado, termotanque eléctrico y artefactos de baño de primera marca. Por otro lado, el edificio cuenta con ascensor con revestimiento interior de acero inoxidable y espejo, al igual que, agua de red y cloacas.",
+            "informacionGeneral": [
+                {
+                    "parrafo": "1"
+                },
+                {
+                    "parrafo": "2"
+                },
+                {
+                    "parrafo": "3"
+                },
+                {
+                    "parrafo": "4"
+                },
+                {
+                    "parrafo": "5"
+                },
+                {
+                    "parrafo": "6"
+                },
+                {
+                    "parrafo": "7"
+                },
+                {
+                    "parrafo": "8"
+                },
+                {
+                    "parrafo": "9"
+                },
+                {
+                    "parrafo": "10"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
             "laundry":true,
