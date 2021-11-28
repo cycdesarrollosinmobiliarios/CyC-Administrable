@@ -175,6 +175,55 @@
                     "parrafo": "- Valor final de contado USD 220.00"
                 }
             ],
+            "cuatroAmbientes": true,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         },
         {
@@ -205,7 +254,39 @@
             "altura": "",
             "ubicacion": "Belgrano 113, San miguel",
             "ambientes": "4",
-            "informacionGeneral": "Chalet en proceso de remodelación a nuevo, con fecha de finalización Noviembre 2021. Se destaca por su ubicación estratégica en Belgrano 113, ya que se encuentra a una cuadra de la intersección entre Ruta 8 y balbín, donde se encuentran la terminal del ferrocarril Urquiza, terminal de ómnibus y shopping Terrazas de Mayo.",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                },
+                {
+                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                },
+                {
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                },
+                {
+                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                },
+                {
+                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                },
+                {
+                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                }
+
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":true,
             "laundry":true,
@@ -213,9 +294,154 @@
             "cocherasCubiertas":true,
             "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
-            "dosAmbientes": false,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "dosAmbientes": true,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                {
+                    "parrafo": "- Iluminación led"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
+            "cuatroAmbientes": false,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         },
         {
@@ -249,7 +475,39 @@
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
-            "informacionGeneral": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                },
+                {
+                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                },
+                {
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                },
+                {
+                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                },
+                {
+                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                },
+                {
+                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                }
+
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
             "laundry":false,
@@ -257,16 +515,154 @@
             "cocherasCubiertas":true,
             "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
-            "dosAmbientes": false,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "dosAmbientes": true,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                {
+                    "parrafo": "- Iluminación led"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-            "tresAmbientes": false,
-            "imagenTresAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralTresAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "cuatroAmbientes": false,
             "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralCuatroAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         }
     ],
@@ -304,7 +700,39 @@
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
-            "informacionGeneral": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                },
+                {
+                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                },
+                {
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                },
+                {
+                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                },
+                {
+                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                },
+                {
+                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                }
+
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
             "laundry":false,
@@ -313,15 +741,153 @@
             "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                {
+                    "parrafo": "- Iluminación led"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-            "tresAmbientes": false,
-            "imagenTresAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralTresAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "cuatroAmbientes": false,
             "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralCuatroAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         },
         {
@@ -355,7 +921,39 @@
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
-            "informacionGeneral": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+"informacionGeneral": [
+                {
+                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                },
+                {
+                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                },
+                {
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                },
+                {
+                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                },
+                {
+                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                },
+                {
+                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                }
+
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
             "laundry":false,
@@ -364,15 +962,153 @@
             "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                {
+                    "parrafo": "- Iluminación led"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-            "tresAmbientes": false,
-            "imagenTresAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralTresAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "cuatroAmbientes": false,
             "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralCuatroAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         },
         {
@@ -406,7 +1142,39 @@
             "pisos":"10",
             "dtos": "50",
             "dtosPorPiso":"5",
-            "informacionGeneral": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                },
+                {
+                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                },
+                {
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                },
+                {
+                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                },
+                {
+                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                },
+                {
+                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                },
+                {
+                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
+                },
+                {
+                    "parrafo": "Lista para habitar. "
+                }
+
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
             "laundry":false,
@@ -415,15 +1183,153 @@
             "orientacion": "(SO)",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralDosAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                {
+                    "parrafo": "- Iluminación led"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-            "tresAmbientes": false,
-            "imagenTresAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralTresAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "cuatroAmbientes": false,
             "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-            "informacionGeneralCuatroAmbientes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Senectusdictum fermentum phasellus tortor, nisl vehicula tortor viverra.Elementum mauris at amet, tristique gravida vitae morbi duis.Pharetra commodo facilisi sit elementum hac pretium non neque.Enim auctor tempor tristique et urna eleifend.",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         }
     ]
