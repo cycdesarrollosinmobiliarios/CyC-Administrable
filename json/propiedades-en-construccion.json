@@ -77,11 +77,73 @@
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
             "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
-            "informacionGeneralDosAmbientes": "La unidad cuenta con dos dormitorios, balcón, pisos de porcelanato, cocina separada con paredes revestidas en cerámicos y bajo mesada. Su valor final de contado es USD 80.000",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "1"
+                },
+                {
+                    "parrafo": "2"
+                },
+                {
+                    "parrafo": "3"
+                },
+                {
+                    "parrafo": "4"
+                },
+                {
+                    "parrafo": "5"
+                },
+                {
+                    "parrafo": "6"
+                },
+                {
+                    "parrafo": "7"
+                },
+                {
+                    "parrafo": "8"
+                },
+                {
+                    "parrafo": "9"
+                },
+                {
+                    "parrafo": "10"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
             "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
-            "informacionGeneralTresAmbientes": "La unidad cuenta con tres dormitorios, balcón, pisos de porcelanato, cocina separada con paredes revestidas en cerámicos y bajo mesada. Su valor final de contado es USD 110.000",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "1"
+                },
+                {
+                    "parrafo": "2"
+                },
+                {
+                    "parrafo": "3"
+                },
+                {
+                    "parrafo": "4"
+                },
+                {
+                    "parrafo": "5"
+                },
+                {
+                    "parrafo": "6"
+                },
+                {
+                    "parrafo": "7"
+                },
+                {
+                    "parrafo": "8"
+                },
+                {
+                    "parrafo": "9"
+                },
+                {
+                    "parrafo": "10"
+                }
+            ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
         },
         {
