@@ -6,20 +6,24 @@
             "categoria": "enConstruccion",
             "sliderImagen":[
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840874/Cadiz/exterior_dia_base_wwgbnj.jpg",
-                    "alt": "edificio cadiz san miguel"
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/frentefinal2-2_rhogx1.jpg",
+                    "alt": "construcción en pozo"
                 },
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/general_2amb-6_ibyplc.jpg",
+                    "alt": "living moderno"
                 },
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840871/Cadiz/comedor_mafaye.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/habitacion0000-4_njogvm.jpg",
+                    "alt": "habitación moderna"
                 },
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/cocina-7_tg7we6.jpg",
+                    "alt": "cocina moderna"
+                }
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/comedor-5_pz0scw.jpg",
+                    "alt": "proyecto en pozo"
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/exterior_dia_base-3_ilcxrk.jpg",
@@ -38,36 +42,22 @@
             "dtosPorPiso":"2",
             "informacionGeneral": [
                 {
-                    "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                    "parrafo": "Viví en Cadiz, disfrutá de una zona residencial arbolada."
                 },
                 {
-                    "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                    "parrafo": "Es un edificio boutique valorizado por su ubicación cercana al centro comercial, shopping y centros recreativos. "
                 },
                 {
-                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                    "parrafo": "Todas las unidades cuentan con gas natural, agua de red, cloacas y ventanas de aluminio Aluar."
                 },
                 {
-                    "parrafo": "Imaginate ser médico y establecer tus consultorios"
+                    "parrafo": "Asímismo, poseen instalación para colocación de lavarropas, al igual que, para aire acondicionado y termotanque eléctrico. "
                 },
                 {
-                    "parrafo": "Imaginate ser docente y crear tu instituto. "
+                    "parrafo": "Por otro lado, el edificio cuenta con ascensor con revestimiento interior de acero inoxidable y espejo."
                 },
                 {
-                    "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
-                },
-                {
-                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-                },
-                {
-                    "parrafo": "Lista para habitar. "
-                },
-                {
-                    "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-                },
-                {
-                    "parrafo": "Lista para habitar. "
-                }
-
+                    "parrafo": "Fecha de finalización: Julio 2022"
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
@@ -78,78 +68,54 @@
             "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/living_-1_xwuoei.jpg",
             "informacionGeneralDosAmbientes": [
                 {
-                    "parrafo": "- 3 Dormitorios"
+                    "parrafo": "SIN UNIDADES DISPONIBLES"
                 },
                 {
-                    "parrafo": "- Living-comedor"
+                    "parrafo": "- 1 Dormitorio"
                 },
                 {
-                    "parrafo": "- Cocina sectorizada"
+                    "parrafo": "- 1 Baño con artefactos de primera marca"
                 },
                 {
-                    "parrafo": "- 3 Baños, uno toilette"
+                    "parrafo": "- Cocina separada con paredes revestidas en cerámicos  y bajo mesada"
                 },
                 {
-                    "parrafo": "- Cochera cubierta"
+                    "parrafo": "- Pisos de porcelanato"
                 },
                 {
-                    "parrafo": "- lavadero"
+                    "parrafo": "- Amplio ablcón"
                 },
                 {
-                    "parrafo": "- Parque"
-                },
-                {
-                    "parrafo": "- Gran quincho con parrilla"
-                },
-                {
-                    "parrafo": "- metros"
-                },
-                {
-                    "parrafo": "- Bocas para estufa en todos los ambientes"
-                },
-                {
-                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-                },
-                {
-                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-                },
-                {
-                    "parrafo": "- Iluminación led"
-                },
-                {
-                    "parrafo": "- Valor final de contado USD 220.00"
-                },
-                {
-                    "parrafo": "- Valor final de contado USD 220.00"
+                    "parrafo": "- Valor final de contado USD 80.000"
                 }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/general_2amb-6_ibyplc.jpg",
             "informacionGeneralTresAmbientes": [
                 {
-                    "parrafo": "- 3 Dormitorios"
+                    "parrafo": "- 2 Dormitorios"
                 },
                 {
-                    "parrafo": "- Living-comedor"
+                    "parrafo": "- 1 Baño con artefactos de primera marca"
                 },
                 {
-                    "parrafo": "- Cocina sectorizada"
+                    "parrafo": "- Cocina separada con paredes revestidas en cerámicos  y bajo mesada"
                 },
                 {
-                    "parrafo": "- 3 Baños, uno toilette"
+                    "parrafo": "- Pisos de porcelanato"
                 },
                 {
-                    "parrafo": "- Cochera cubierta"
+                    "parrafo": "- Amplio ablcón"
                 },
                 {
-                    "parrafo": "- lavadero"
+                    "parrafo": "- Metros"
                 },
                 {
-                    "parrafo": "- Parque"
+                    "parrafo": "- Valor final de contado USD 80.000"
                 },
                 {
                     "parrafo": "- Gran quincho con parrilla"
