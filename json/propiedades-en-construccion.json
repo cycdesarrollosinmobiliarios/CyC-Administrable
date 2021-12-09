@@ -20,7 +20,7 @@
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/cocina-7_tg7we6.jpg",
                     "alt": "cocina moderna"
-                }
+                },
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/comedor-5_pz0scw.jpg",
                     "alt": "proyecto en pozo"
@@ -58,6 +58,7 @@
                 },
                 {
                     "parrafo": "Fecha de finalización: Julio 2022"
+                }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
             "patio":false,
