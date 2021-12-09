@@ -90,12 +90,18 @@
                     "parrafo": "- Amplio ablcón"
                 },
                 {
+                    "parrafo": "- Superficie total 53,4 m²"
+                },
+                {
+                    "parrafo": "- Superficie cubierta 49,3 m²"
+                },
+                {
                     "parrafo": "- Valor final de contado USD 80.000"
                 }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/general_2amb-6_ibyplc.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
@@ -113,37 +119,16 @@
                     "parrafo": "- Amplio ablcón"
                 },
                 {
-                    "parrafo": "- Metros"
+                    "parrafo": "- Superficie total 70,5 m²"
                 },
                 {
-                    "parrafo": "- Valor final de contado USD 80.000"
+                    "parrafo": "- Superficie cubierta 65,9 m²"
                 },
                 {
-                    "parrafo": "- Gran quincho con parrilla"
-                },
-                {
-                    "parrafo": "- metros"
-                },
-                {
-                    "parrafo": "- Bocas para estufa en todos los ambientes"
-                },
-                                {
-                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-                },
-                                {
-                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-                },
-                                {
-                    "parrafo": "- Iluminación led"
-                },
-                                {
-                    "parrafo": "- Valor final de contado USD 220.00"
-                },
-                                {
-                    "parrafo": "- Valor final de contado USD 220.00"
+                    "parrafo": "- Valor final de contado USD 110.000"
                 }
             ],
-            "cuatroAmbientes": true,
+            "cuatroAmbientes": false,
             "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
             "informacionGeneralCuatroAmbientes": [
                 {
