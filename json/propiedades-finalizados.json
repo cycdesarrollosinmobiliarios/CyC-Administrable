@@ -328,61 +328,39 @@
             }
         ],
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S50.000",
-        "titulo": "Cañitas",
-        "informacion": "2,3 y 4 ambientes",
-        "domicilio": "Italia 2131, San Miguel",
+        "precio": "Venta - U$S 73.000",
+        "titulo": "La Bonita",
+        "informacion": "3 ambientes",
+        "domicilio": "Arguero 444, San Miguel",
         "enlace": "Más Información",
         "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
-        "nombre": "Cañitas",
-        "altura": "1450",
-        "ubicacion": "San miguel, Buenos Aires",
+        "nombre": "La Bonita",
+        "altura": "",
+        "ubicacion": "Arguero 444, San miguel, Buenos Aires",
         "ambientes": "1 | 2 | 3 | 4",
         "pisos":"10",
         "dtos": "50",
         "dtosPorPiso":"5",
         "informacionGeneral": [
             {
-                "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                "parrafo": "Viví en La Bonita, un complejo destacado por su seguridad y su ambiente familiar. "
             },
             {
-                "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                "parrafo": "Se encuentra implantado en un entorno residencial, y a la vez, cercado a los principales accesos y centro comercial de San Miguel."
             },
             {
-                "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
-            },
-            {
-                "parrafo": "Imaginate ser médico y establecer tus consultorios"
-            },
-            {
-                "parrafo": "Imaginate ser docente y crear tu instituto. "
-            },
-            {
-                "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
+                "parrafo": "¡Listo para habitar!"
             }
-
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
         "patio":false,
         "laundry":true,
-        "ascensores":true,
+        "ascensores":false,
         "cocherasCubiertas":true,
-        "orientacion": "(NE)",
+        "orientacion": "(E)",
         "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
         "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
-        "dosAmbientes": true,
+        "dosAmbientes": false,
         "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
         "informacionGeneralDosAmbientes": [
             {
@@ -436,49 +414,31 @@
         "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
         "informacionGeneralTresAmbientes": [
             {
-                "parrafo": "- 3 Dormitorios"
+                "parrafo": "- 2 Dormitorios"
             },
             {
-                "parrafo": "- Living-comedor"
-            },
-            {
-                "parrafo": "- Cocina sectorizada"
-            },
-            {
-                "parrafo": "- 3 Baños, uno toilette"
+                "parrafo": "- Cocina integrada"
             },
             {
                 "parrafo": "- Cochera cubierta"
             },
             {
-                "parrafo": "- lavadero"
+                "parrafo": "- Planta alta"
             },
             {
-                "parrafo": "- Parque"
+                "parrafo": "- Ubición: en el medio"
             },
             {
-                "parrafo": "- Gran quincho con parrilla"
+                "parrafo": "- Gas natural"
             },
             {
-                "parrafo": "- metros"
+                "parrafo": "- 7 años de antigüedad"
             },
             {
-                "parrafo": "- Bocas para estufa en todos los ambientes"
+                "parrafo": "- Metros"
             },
-                            {
-                "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-            },
-                            {
-                "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-            },
-                            {
-                "parrafo": "- Iluminación led"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
+            {
+                "parrafo": "- Valor final de contado U$D 73.000"
             }
         ],
         "cuatroAmbientes": false,
