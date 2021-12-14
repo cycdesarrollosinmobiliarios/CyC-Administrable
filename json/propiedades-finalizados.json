@@ -17,56 +17,35 @@
             }
         ],
         "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1635292121/San%20Lorenzo/03._patio_frente_final_uq0ryt.jpg",
-        "precio": "Venta RETAZADO - U$S98.000",
-        "titulo": "Complejo San Lorenzo",
-        "informacion": "3 ambientes",
-        "domicilio": "San Lorenzo 2369, San Miguel",
+        "precio": "Desde U$S 60.000",
+        "titulo": "Complejo Irigoin",
+        "informacion": "2 y 3 ambientes",
+        "domicilio": "Irigoin 2501, San Miguel",
         "enlace": "Más Información",
         "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
-        "nombre": "Complejo San Lorenzo",
+        "nombre": "Complejo Irigoin",
         "altura": "",
-        "ubicacion": "San Lorenzo 2369, San miguel",
+        "ubicacion": "Irigoin 2501, San miguel",
         "ambientes": "4",
         "pisos":"10",
         "dtos": "50",
         "dtosPorPiso":"5",
         "informacionGeneral": [
             {
-                "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generosa espacio común en el se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas deasrrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
             },
             {
-                "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                "parrafo": "El complejo cuenta con piscina, solarium, servicios ya disponibles como la luz, el gas, la cloaca y agua a través de perforaciones propias para cada módulo."
             },
             {
-                "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
-            },
-            {
-                "parrafo": "Imaginate ser médico y establecer tus consultorios"
-            },
-            {
-                "parrafo": "Imaginate ser docente y crear tu instituto. "
-            },
-            {
-                "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
+                "parrafo": "¡Listo para habitar!
             }
 
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
-        "patio":false,
+        "patio":true,
         "laundry":true,
-        "ascensores":true,
+        "ascensores":false,
         "cocherasCubiertas":true,
         "orientacion": "(NE)",
         "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
@@ -75,49 +54,28 @@
         "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
         "informacionGeneralDosAmbientes": [
             {
-                "parrafo": "- 3 Dormitorios"
+                "parrafo": "- 1 Dormitorio"
             },
             {
-                "parrafo": "- Living-comedor"
+                "parrafo": "- 1 Baño con artefactos de primera marca"
             },
             {
-                "parrafo": "- Cocina sectorizada"
+                "parrafo": "- Cocina sectorizada con revestimiento cerámico y bajo mesada"
             },
             {
-                "parrafo": "- 3 Baños, uno toilette"
+                "parrafo": "- Balcón aterrazado"
             },
             {
-                "parrafo": "- Cochera cubierta"
+                "parrafo": "- Termotanque a gas"
             },
             {
-                "parrafo": "- lavadero"
+                "parrafo": "- Superficie cubierta 32m²"
             },
             {
-                "parrafo": "- Parque"
+                "parrafo": "- Superficie descubierta 7.25m²²"
             },
             {
-                "parrafo": "- Gran quincho con parrilla"
-            },
-            {
-                "parrafo": "- metros"
-            },
-            {
-                "parrafo": "- Bocas para estufa en todos los ambientes"
-            },
-            {
-                "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-            },
-            {
-                "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-            },
-            {
-                "parrafo": "- Iluminación led"
-            },
-            {
-                "parrafo": "- Valor final de contado USD 220.00"
-            },
-            {
-                "parrafo": "- Valor final de contado USD 220.00"
+                "parrafo": "- Valor final de contado U$D 60.000"
             }
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
@@ -125,49 +83,28 @@
         "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
         "informacionGeneralTresAmbientes": [
             {
-                "parrafo": "- 3 Dormitorios"
+                "parrafo": "- 2 Dormitorios"
             },
             {
-                "parrafo": "- Living-comedor"
+                "parrafo": "- 1 Baño con artefactos de primera marca"
             },
             {
-                "parrafo": "- Cocina sectorizada"
+                "parrafo": "- Cocina con revestimiento cerámico y bajo mesada"
             },
             {
-                "parrafo": "- 3 Baños, uno toilette"
+                "parrafo": "- Patio"
             },
             {
-                "parrafo": "- Cochera cubierta"
+                "parrafo": "- Termotanque a gas"
             },
             {
-                "parrafo": "- lavadero"
+                "parrafo": "- Superficie cubierta 46m²"
             },
             {
-                "parrafo": "- Parque"
+                "parrafo": "- Superficie descubierta 24m²"
             },
             {
-                "parrafo": "- Gran quincho con parrilla"
-            },
-            {
-                "parrafo": "- metros"
-            },
-            {
-                "parrafo": "- Bocas para estufa en todos los ambientes"
-            },
-                            {
-                "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-            },
-                            {
-                "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-            },
-                            {
-                "parrafo": "- Iluminación led"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
+                "parrafo": "- Valor final de contado U$D 110.000"
             }
         ],
         "cuatroAmbientes": false,
@@ -203,19 +140,19 @@
             {
                 "parrafo": "- Bocas para estufa en todos los ambientes"
             },
-                            {
+            {
                 "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
             },
-                            {
+            {
                 "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
             },
-                            {
+            {
                 "parrafo": "- Iluminación led"
             },
-                            {
+            {
                 "parrafo": "- Valor final de contado USD 220.00"
             },
-                            {
+            {
                 "parrafo": "- Valor final de contado USD 220.00"
             }
         ],
