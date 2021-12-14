@@ -32,7 +32,7 @@
         "dtosPorPiso":"5",
         "informacionGeneral": [
             {
-                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generosa espacio común en el se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas deasrrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
+                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generoso espacio común en el cual se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas deasrrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
             },
             {
                 "parrafo": "El complejo cuenta con piscina, solarium, servicios ya disponibles como la luz, el gas, la cloaca y agua a través de perforaciones propias para cada módulo."
@@ -176,107 +176,61 @@
             }
         ],
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S50.000",
-        "titulo": "Cañitas",
-        "informacion": "2,3 y 4 ambientes",
-        "domicilio": "Italia 2131, San Miguel",
+        "precio": "Desde U$S47.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "1,2,3 y 4 ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
         "enlace": "Más Información",
         "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
-        "nombre": "Cañitas",
-        "altura": "1450",
-        "ubicacion": "San miguel, Buenos Aires",
+        "nombre": "Cañitas de San Ignacio",
+        "altura": "",
+        "ubicacion": "Casacuberta 862, San miguel, Buenos Aires",
         "ambientes": "1 | 2 | 3 | 4",
         "pisos":"10",
         "dtos": "50",
         "dtosPorPiso":"5",
         "informacionGeneral": [
             {
-                "parrafo": "¿Querés vivir en un lugar estratégico?... Experimentá esta increíble propiedad."
+                "parrafo": "Buecás vivir en un entorno de barrios cerrados, rodeado de arboleda y pajaritos? No busques más, Cañitas de San Ignacio es tu lugar ideal."
             },
             {
-                "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
+                "parrafo": "Aprovechá al máximo todos los beneficios con lo que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
             },
             {
-                "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
+                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado, ya que el 95% de las unidades se encuentran habitadas."
             },
             {
-                "parrafo": "Imaginate ser médico y establecer tus consultorios"
-            },
-            {
-                "parrafo": "Imaginate ser docente y crear tu instituto. "
-            },
-            {
-                "parrafo": "Imaginate ser profesor de gimnasia y dar tus clases en este gran quincho."
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
-            },
-            {
-                "parrafo": "¿Por qué seguir imaginando? ¡Hacelo realidad! "
-            },
-            {
-                "parrafo": "Lista para habitar. "
+                "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
             }
-
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
-        "patio":false,
+        "patio":true,
         "laundry":true,
-        "ascensores":true,
+        "ascensores":false,
         "cocherasCubiertas":true,
-        "orientacion": "(NE)",
+        "orientacion": "(NO)",
         "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
         "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
         "dosAmbientes": true,
         "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
         "informacionGeneralDosAmbientes": [
             {
-                "parrafo": "- 3 Dormitorios"
+                "parrafo": "- 2 Dormitorios"
             },
             {
-                "parrafo": "- Living-comedor"
+                "parrafo": "- 1 Baño"
             },
             {
                 "parrafo": "- Cocina sectorizada"
             },
             {
-                "parrafo": "- 3 Baños, uno toilette"
+                "parrafo": "- Planta alta"
             },
             {
-                "parrafo": "- Cochera cubierta"
+                "parrafo": "- Superficie cubierta 41m²"
             },
             {
-                "parrafo": "- lavadero"
-            },
-            {
-                "parrafo": "- Parque"
-            },
-            {
-                "parrafo": "- Gran quincho con parrilla"
-            },
-            {
-                "parrafo": "- metros"
-            },
-            {
-                "parrafo": "- Bocas para estufa en todos los ambientes"
-            },
-            {
-                "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-            },
-            {
-                "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-            },
-            {
-                "parrafo": "- Iluminación led"
-            },
-            {
-                "parrafo": "- Valor final de contado USD 220.00"
-            },
-            {
-                "parrafo": "- Valor final de contado USD 220.00"
+                "parrafo": "- Valor final de contado U$D 47.000"
             }
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
@@ -284,49 +238,25 @@
         "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
         "informacionGeneralTresAmbientes": [
             {
-                "parrafo": "- 3 Dormitorios"
+                "parrafo": "- Duplex"
             },
             {
-                "parrafo": "- Living-comedor"
+                "parrafo": "- 2 Dormitorios"
             },
             {
-                "parrafo": "- Cocina sectorizada"
+                "parrafo": "- 1 Baño"
             },
             {
-                "parrafo": "- 3 Baños, uno toilette"
+                "parrafo": "- Patio"
             },
             {
-                "parrafo": "- Cochera cubierta"
+                "parrafo": "- Superficie cubierta 65m²"
             },
             {
-                "parrafo": "- lavadero"
+                "parrafo": "- Superficie descubierta 16m²"
             },
             {
-                "parrafo": "- Parque"
-            },
-            {
-                "parrafo": "- Gran quincho con parrilla"
-            },
-            {
-                "parrafo": "- metros"
-            },
-            {
-                "parrafo": "- Bocas para estufa en todos los ambientes"
-            },
-                            {
-                "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-            },
-                            {
-                "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-            },
-                            {
-                "parrafo": "- Iluminación led"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
-            },
-                            {
-                "parrafo": "- Valor final de contado USD 220.00"
+                "parrafo": "- Valor final de contado U$D 75.000"
             }
         ],
         "cuatroAmbientes": false,
