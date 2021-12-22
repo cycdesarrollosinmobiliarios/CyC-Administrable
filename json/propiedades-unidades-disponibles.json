@@ -17,9 +17,9 @@
             }
         ],
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Desde U$S 47.000",
+        "precio": "U$S 47.000",
         "titulo": "Cañitas de San Ignacio",
-        "informacion": "1,2,3 y 4 ambientes",
+        "informacion": "2 ambientes",
         "domicilio": "Casacuberta 862, San Miguel",
         "enlace": "Más Información",
         "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
@@ -75,7 +75,7 @@
             }
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-        "tresAmbientes": true,
+        "tresAmbientes": false,
         "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
         "informacionGeneralTresAmbientes": [
             {
