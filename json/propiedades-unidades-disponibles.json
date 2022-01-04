@@ -228,7 +228,115 @@
         "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
         "nombre": "Complejo Dharma",
         "altura": "",
-        "ubicacion": "San miguel, Buenos Aires",
+        "ubicacion": "Pringles 261, San Miguel",
+        "ambientes": "1 | 2 | 3 | 4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "¿Buscás mudarte solo o en pareja?"
+            },
+            {
+                "parrafo": "¡Esta unidad es ideal!"
+            },
+            {
+                "parrafo": "Se encuentra ubicada en un entorno residencial y, al mismo tiempo, cerca de todos los accesos: Ruta 8, terminal del tren Urquiza, terminal de buses, shopping Terrazas de Mayo y próxima al centro de la ciudad."
+            },
+            {
+                "parrafo": "Es apta crédito."
+            },
+            {
+                "parrafo": "Lista para habitar."
+            }
+
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":false,
+        "laundry":true,
+        "ascensores":false,
+        "cocherasCubiertas":true,
+        "orientacion": "(NE)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": true,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 1 Dormitorio"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Cocina integrada"
+            },
+            {
+                "parrafo": "- Planta alta"
+            },
+            {
+                "parrafo": "- Termotanque a XX"
+            },
+            {
+                "parrafo": "- Agua XX"
+            },
+            {
+                "parrafo": "- Superficie cubierta XXXm²"
+            },
+            {
+                "parrafo": "- Valor de contado U$D 60.000"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": false,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+        "informacionGeneralTresAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
+    },
+           {
+        "id": 4,
+        "categoria": "disponibles",
+        "sliderImagen":[
+            {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider3.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
+            }
+        ],
+        "imagen": "./img/canitashome1.jpeg",
+        "precio": "Venta - U$S110.000",
+        "titulo": "Cadiz",
+        "informacion": "3 ambientes",
+        "domicilio": "España 623, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Cadiz",
+        "altura": "",
+        "ubicacion": "España 623, San miguel",
         "ambientes": "1 | 2 | 3 | 4",
         "pisos":"10",
         "dtos": "50",
