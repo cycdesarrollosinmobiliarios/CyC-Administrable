@@ -528,5 +528,107 @@
             }
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
+        },
+        {
+        "id": 6,
+        "categoria": "disponibles",
+        "sliderImagen":[
+           {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider3.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
+            }
+        ],
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1635292121/San%20Lorenzo/03._patio_frente_final_uq0ryt.jpg",
+        "precio": "Venta -  U$S 85.000",
+        "titulo": "Complejo Irigoin",
+        "informacion": "3 ambientes",
+        "domicilio": "Irigoin 2501, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Complejo Irigoin",
+        "altura": "",
+        "ubicacion": "Irigoin 2501, San miguel",
+        "ambientes": "4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generoso espacio común en el cual se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas deasrrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
+            },
+            {
+                "parrafo": "El complejo cuenta con piscina, solarium, servicios ya disponibles como la luz, el gas, la cloaca y agua a través de perforaciones propias para cada módulo."
+            },
+            {
+                "parrafo": "¡Listo para habitar!"
+            }
+
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":true,
+        "laundry":true,
+        "ascensores":false,
+        "cocherasCubiertas":true,
+        "orientacion": "(NE)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": false,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 1 Dormitorio"
+            },
+            {
+                "parrafo": "- 1 Baño con artefactos de primera marca"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": true,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+        "informacionGeneralTresAmbientes": [
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño con artefactos de primera marca"
+            },
+            {
+                "parrafo": "- Cocina con revestimiento cerámico y bajo mesada"
+            },
+            {
+                "parrafo": "- Patio"
+            },
+            {
+                "parrafo": "- Termotanque a gas"
+            },
+            {
+                "parrafo": "- Superficie cubierta 46m²"
+            },
+            {
+                "parrafo": "- Superficie descubierta 24m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 85.000"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
     }
 ]
