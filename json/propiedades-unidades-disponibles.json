@@ -427,5 +427,106 @@
                 }
             ],
             "mapa": "https://www.google.com/maps/d/u/0/edit?hl=es-419&mid=1WjTcxIfY-vLIEB6I0OFZZOlHQzbIBaJ9&ll=-34.532439228757966%2C-58.71460808340668&z=16"
+            },
+            {
+        "id": 5,
+        "categoria": "disponibles",
+        "sliderImagen":[
+            {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider3.jpg",
+                "alt": ""
+            },
+            {
+                "img": "./img/Slider1.jpg",
+                "alt": ""
             }
+        ],
+        "imagen": "./img/canitashome1.jpeg",
+        "precio": "Desde U$S 47.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "3 ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Cañitas de San Ignacio",
+        "altura": "",
+        "ubicacion": "Casacuberta 862, San miguel, Buenos Aires",
+        "ambientes": "1 | 2 | 3 | 4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "¿Buscás vivir en un entorno de barrios cerrados, rodeado de arboleda y pajaritos? No busques más, Cañitas de San Ignacio es tu lugar ideal."
+            },
+            {
+                "parrafo": "Aprovechá al máximo todos los beneficios con lo que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
+            },
+            {
+                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado, ya que el 95% de las unidades se encuentran habitadas."
+            },
+            {
+                "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":true,
+        "laundry":true,
+        "ascensores":false,
+        "cocherasCubiertas":true,
+        "orientacion": "(NO)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": false,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": true,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+        "informacionGeneralTresAmbientes": [
+            {
+                "parrafo": "- Duplex"
+            },
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Patio"
+            },
+            {
+                "parrafo": "- Superficie cubierta 65m²"
+            },
+            {
+                "parrafo": "- Superficie descubierta 16m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 75.000"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
+    }
 ]
