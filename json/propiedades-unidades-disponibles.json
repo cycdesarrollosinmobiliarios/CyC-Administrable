@@ -309,113 +309,183 @@
             }
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
-    },
+        },
            {
         "id": 4,
         "categoria": "disponibles",
         "sliderImagen":[
-            {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
-            },
-            {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
-            },
-            {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
+                    "alt": "construcción en pozo"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/general_2amb-6_ibyplc.jpg",
+                    "alt": "living moderno"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/habitacion0000-4_njogvm.jpg",
+                    "alt": "habitación moderna"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/cocina-7_tg7we6.jpg",
+                    "alt": "cocina moderna"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804980/Cadiz/comedor-5_pz0scw.jpg",
+                    "alt": "proyecto en pozo"
+                }
+            ],
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/exterior_dia_base-3_ilcxrk.jpg",
+            "precio": "Venta - U$S110.000",
+            "titulo": "Cadiz",
+            "informacion": "2 y 3 Ambientes",
+            "domicilio": "España 623, San Miguel",
+            "enlace": "Más Información",
+            "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+            "nombre": "Cadiz",
+            "altura": "",
+            "ubicacion": "España 623, San miguel, Buenos Aires",
+            "ambientes": " 2 | 3 ",
+            "pisos":"5",
+            "dtos": "9",
+            "dtosPorPiso":"2",
+            "informacionGeneral": [
+                {
+                    "parrafo": "Viví en Cadiz, disfrutá de una zona residencial arbolada."
+                },
+                {
+                    "parrafo": "Es un edificio boutique valorizado por su ubicación cercana al centro comercial, shopping y centros recreativos. "
+                },
+                {
+                    "parrafo": "Todas las unidades cuentan con gas natural, agua de red, cloacas y ventanas de aluminio Aluar."
+                },
+                {
+                    "parrafo": "Asímismo, poseen instalación para colocación de lavarropas, al igual que, para aire acondicionado y termotanque eléctrico. "
+                },
+                {
+                    "parrafo": "Por otro lado, el edificio cuenta con ascensor con revestimiento interior de acero inoxidable y espejo."
+                },
+                {
+                    "parrafo": "Fecha de finalización: Julio 2022"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+            "patio":false,
+            "laundry":true,
+            "ascensores":true,
+            "cocherasCubiertas":true,
+            "orientacion": "(NE)",
+            "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+            "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+            "dosAmbientes": false,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639070821/Cadiz/2Mesa_de_trabajo_1_taqcks.png",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "SIN UNIDADES DISPONIBLES"
+                },
+                {
+                    "parrafo": "- 1 Dormitorio"
+                },
+                {
+                    "parrafo": "- 1 Baño con artefactos de primera marca"
+                },
+                {
+                    "parrafo": "- Cocina separada con paredes revestidas en cerámicos  y bajo mesada"
+                },
+                {
+                    "parrafo": "- Pisos de porcelanato"
+                },
+                {
+                    "parrafo": "- Amplio ablcón"
+                },
+                {
+                    "parrafo": "- Superficie total 53,4 m²"
+                },
+                {
+                    "parrafo": "- Superficie cubierta 49,3 m²"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 80.000"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 2 Dormitorios"
+                },
+                {
+                    "parrafo": "- 1 Baño con artefactos de primera marca"
+                },
+                {
+                    "parrafo": "- Cocina separada con paredes revestidas en cerámicos  y bajo mesada"
+                },
+                {
+                    "parrafo": "- Pisos de porcelanato"
+                },
+                {
+                    "parrafo": "- Amplio ablcón"
+                },
+                {
+                    "parrafo": "- Superficie total 70,5 m²"
+                },
+                {
+                    "parrafo": "- Superficie cubierta 65,9 m²"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 110.000"
+                }
+            ],
+            "cuatroAmbientes": false,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- 3 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Cochera cubierta"
+                },
+                {
+                    "parrafo": "- lavadero"
+                },
+                {
+                    "parrafo": "- Parque"
+                },
+                {
+                    "parrafo": "- Gran quincho con parrilla"
+                },
+                {
+                    "parrafo": "- metros"
+                },
+                {
+                    "parrafo": "- Bocas para estufa en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
+                },
+                                {
+                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
+                },
+                                {
+                    "parrafo": "- Iluminación led"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                },
+                                {
+                    "parrafo": "- Valor final de contado USD 220.00"
+                }
+            ],
+            "mapa": "https://www.google.com/maps/d/u/0/edit?hl=es-419&mid=1WjTcxIfY-vLIEB6I0OFZZOlHQzbIBaJ9&ll=-34.532439228757966%2C-58.71460808340668&z=16"
             }
-        ],
-        "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S110.000",
-        "titulo": "Cadiz",
-        "informacion": "3 ambientes",
-        "domicilio": "España 623, San Miguel",
-        "enlace": "Más Información",
-        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
-        "nombre": "Cadiz",
-        "altura": "",
-        "ubicacion": "España 623, San miguel",
-        "ambientes": "1 | 2 | 3 | 4",
-        "pisos":"10",
-        "dtos": "50",
-        "dtosPorPiso":"5",
-        "informacionGeneral": [
-            {
-                "parrafo": "¿Buscás mudarte solo o en pareja?"
-            },
-            {
-                "parrafo": "¡Esta unidad es ideal!"
-            },
-            {
-                "parrafo": "Se encuentra ubicada en un entorno residencial y, al mismo tiempo, cercana a todos los accesos: Ruta 8, terminal del tren Urquiza, terminal de buses, shopping Terrazas de Mayo y cercana al centro de la ciudad."
-            },
-            {
-                "parrafo": "Es apta crédito."
-            },
-            {
-                "parrafo": "Listo para habitar."
-            }
-
-        ],
-        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
-        "patio":false,
-        "laundry":true,
-        "ascensores":false,
-        "cocherasCubiertas":true,
-        "orientacion": "(NE)",
-        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
-        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
-        "dosAmbientes": true,
-        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
-        "informacionGeneralDosAmbientes": [
-            {
-                "parrafo": "- 1 Dormitorio"
-            },
-            {
-                "parrafo": "- 1 Baño"
-            },
-            {
-                "parrafo": "- Cocina integrada"
-            },
-            {
-                "parrafo": "- Planta alta"
-            },
-            {
-                "parrafo": "- Termotanque a XX"
-            },
-            {
-                "parrafo": "- Agua XX"
-            },
-            {
-                "parrafo": "- Superficie cubierta XXXm²"
-            },
-            {
-                "parrafo": "- Valor de contado U$D 60.000"
-            }
-        ],
-        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-        "tresAmbientes": false,
-        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
-        "informacionGeneralTresAmbientes": [
-            {
-                "parrafo": "- 3 Dormitorios"
-            },
-            {
-                "parrafo": "- Living-comedor"
-            }
-        ],
-        "cuatroAmbientes": false,
-        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-        "informacionGeneralCuatroAmbientes": [
-            {
-                "parrafo": "- 3 Dormitorios"
-            },
-            {
-                "parrafo": "- Living-comedor"
-            }
-        ],
-        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
-    }
 ]
