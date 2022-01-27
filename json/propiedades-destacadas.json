@@ -2,7 +2,7 @@
         "id": 1,
         "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S47.000",
+        "precio": "Venta - U$S 47.000",
         "titulo": "Cañitas de San Ignacio",
         "informacion": "2 Ambientes",
         "domicilio": "Casacuberta 862, San Miguel",
@@ -12,20 +12,20 @@
         "id": 2,
         "categoria": "finalizados",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S110.000",
-        "titulo": "Cañitas de San Ignacio",
-        "informacion": "4 Ambientes",
-        "domicilio": "Casacuberta 862, San Miguel",
+        "precio": "Venta APTO CRÉDITO - U$S 60.000",
+        "titulo": "Complejo Dharma",
+        "informacion": "2 Ambientes",
+        "domicilio": "Pringles 261, San Miguel",
         "enlace": "Más Información"
     },
     {
         "id": 3,
         "categoria": "en construcción",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S65.000",
-        "titulo": "La Mansa II",
+        "precio": "Venta - U$S 110.000",
+        "titulo": "Edificio Cadiz",
         "informacion": "3 Ambientes",
-        "domicilio": "Muñoz 2991, San Miguel",
+        "domicilio": "España 862, San Miguel",
         "enlace": "Más Información"
     }
 ]
