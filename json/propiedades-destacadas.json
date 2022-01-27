@@ -1,11 +1,11 @@
 [   {
         "id": 1,
-        "categoria": "finalizados",
+        "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta RETAZADO - U$S98.000",
-        "titulo": "Complejo San Lorenzo",
-        "informacion": "3 Ambientes",
-        "domicilio": "San Lorenzo 2369, San Miguel",
+        "precio": "Venta - U$S47.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "2 Ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
         "enlace": "Más Información"
     },
     {
