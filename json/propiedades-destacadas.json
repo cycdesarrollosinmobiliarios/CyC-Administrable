@@ -10,7 +10,7 @@
     },
     {
         "id": 2,
-        "categoria": "disponibels",
+        "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "precio": "Venta APTO CRÉDITO - U$S 60.000",
         "titulo": "Complejo Dharma",
@@ -20,7 +20,7 @@
     },
     {
         "id": 3,
-        "categoria": "en construcción",
+        "categoria": "en construccion",
         "imagen": "./img/canitashome1.jpeg",
         "precio": "Venta - U$S 110.000",
         "titulo": "Edificio Cadiz",
