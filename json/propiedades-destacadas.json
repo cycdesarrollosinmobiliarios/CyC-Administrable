@@ -20,7 +20,7 @@
     },
     {
         "id": 3,
-        "categoria": "en construccion",
+        "categoria": "enConstruccion",
         "imagen": "./img/canitashome1.jpeg",
         "precio": "Venta - U$S 110.000",
         "titulo": "Edificio Cadiz",
