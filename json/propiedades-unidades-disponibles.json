@@ -220,7 +220,7 @@
             }
         ],
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S60.000",
+        "precio": "Venta APTO CRÉDITO - U$S 60.000",
         "titulo": "Complejo Dharma",
         "informacion": "2 ambientes",
         "domicilio": "Pringles 261, San Miguel",
@@ -336,7 +336,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/exterior_dia_base-3_ilcxrk.jpg",
-            "precio": "Venta - U$S110.000",
+            "precio": "Venta - U$S 110.000",
             "titulo": "Cadiz",
             "informacion": "3 Ambientes",
             "domicilio": "España 623, San Miguel",
