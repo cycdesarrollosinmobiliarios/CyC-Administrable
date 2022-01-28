@@ -4,19 +4,43 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
+                "alt": "cañitas de san ignacio"
             },
             {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803077/Ca%C3%B1itas/Sin_Titulo_dyl2xt.jpg",
+                "alt": "complejo en san miguel"
             },
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
-            }
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/e5d578a2-1046-46c5-98ec-9ad219db25c6_dbfxrx.jpg",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/67ba951d-3673-4f86-a684-b24290f45440_iodqed.jpg",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/9533d537-aa8d-48a8-85bf-3001abaff4f4_cd7vv4.jpg",
+                "alt": "cocina separada en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/441772c0-9660-4a0b-9912-d32102e2fada_mohaob.jpg",
+                "alt": "complejo en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
+                "alt": "cañitas de san ignacio en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/a1b08df1-3bf6-4502-9011-2abb90ecd409_idzhea.jpg",
+                "alt": "3 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/6484343e-6d99-41fc-b81d-d5761f712022_yetnku.jpg",
+                "alt": "duplex en san miguel"
+            },
         ],
-        "imagen": "./img/canitashome1.jpeg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/e5d578a2-1046-46c5-98ec-9ad219db25c6_dbfxrx.jpg",
         "precio": "Venta - U$S 47.000",
         "titulo": "Cañitas de San Ignacio",
         "informacion": "2 ambientes",
