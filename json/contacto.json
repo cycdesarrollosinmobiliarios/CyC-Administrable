@@ -2,8 +2,8 @@
     "formulario":
     [
         {
-            "titulo": "Mantengámonos en contacto",
-            "subtitulo": "Podés enviarnos tu consulta y te responderemos lo mas pronto posible",
+            "titulo": "Sigamos en contacto",
+            "subtitulo": "Envianos tu consulta y te responderemos lo más pronto posible",
             "direccion": "San Miguel, Buenos Aires",
             "mail": "info@cycdesarrollosinmobiliarios.com",
             "telefono": "+54 11 3392 2806 / +54 11 5162 0058",
@@ -17,9 +17,10 @@
     "testimonios":
     [
         {
-            "testimonio": "Nuestro informe para la empresa constructora que diseñó y construyó el Complejo las Cañitas de San Ignacio, compuesto por 50 departamentos, de los cuales somos propietarios de 2 unidades, estamos muy conformes con el proyecto, por lo tanto los felicitamos y sin más los saludamos cordialmente",
-            "testimonio constructora san miguel": "",
-            "nombre": "Cecilia Y Jesús Piscitello"
+            "testimonio": "Nuestro informe para la empresa constructora que diseñó y construyó el Complejo las Cañitas de San Ignacio, compuesto por 50 departamentos, de los cuales somos propietarios de 2 unidades: estamos muy conformes con el proyecto. Por lo tanto, los felicitamos y sin más, los saludamos cordialmente",
+            "imagen": "./img/imgnosotros.jpg",
+            "alt": "constructora san miguel",
+            "nombre": "Mariana"
         },
         {
             "testimonio": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Laoreet aliquam egestas quis est nibh congue.”",
