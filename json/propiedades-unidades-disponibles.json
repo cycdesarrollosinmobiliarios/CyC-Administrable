@@ -445,19 +445,39 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
+                "alt": "cañitas de san ignacio"
             },
             {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803077/Ca%C3%B1itas/Sin_Titulo_dyl2xt.jpg",
+                "alt": "complejo en san miguel"
             },
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
+                "alt": "duplex en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/a1b08df1-3bf6-4502-9011-2abb90ecd409_idzhea.jpg",
+                "alt": "3 ambientes en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/6484343e-6d99-41fc-b81d-d5761f712022_yetnku.jpg",
+                "alt": "duplex 3 ambientes"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/656d3a94-4f77-410f-8187-3932ebf4c820_omkqzd.jpg",
+                "alt": "duplex 3 ambientes en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/1ee26954-4425-418a-b9ff-ea68fa4f3b68_va4rgs.jpg",
+                "alt": "duplex amplio san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803019/Ca%C3%B1itas/3%20ambientes/e61d21f8-a912-457b-a1b7-f676727ed24d_ndradj.jpg",
+                "alt": "duplex moderno san miguel"
             }
         ],
-        "imagen": "./img/canitashome1.jpeg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
         "precio": "Venta - U$S 75.000",
         "titulo": "Cañitas de San Ignacio",
         "informacion": "3 ambientes",
