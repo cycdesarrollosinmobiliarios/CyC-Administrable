@@ -1,5 +1,5 @@
 [   {
-        "id": 1,
+        "id": 2,
         "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "alt": "complejo irigoin san miguel",
@@ -10,7 +10,7 @@
         "enlace": "Más Información"
     },
     {
-        "id": 2,
+        "id": 8,
         "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "alt": "casa 4 ambientes",
@@ -21,7 +21,7 @@
         "enlace": "Más Información"
     },
     {
-        "id": 3,
+        "id": 7,
         "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "alt": "departamento apto credito",
