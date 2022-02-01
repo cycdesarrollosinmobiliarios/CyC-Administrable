@@ -9,7 +9,7 @@
         "enlace": "Más Información"
     },
     {
-        "id": 2,
+        "id": 3,
         "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "precio": "Venta APTO CRÉDITO - U$S 60.000",
@@ -19,8 +19,8 @@
         "enlace": "Más Información"
     },
     {
-        "id": 3,
-        "categoria": "enConstruccion",
+        "id": 4,
+        "categoria": "disponibles",
         "imagen": "./img/canitashome1.jpeg",
         "precio": "Venta - U$S 110.000",
         "titulo": "Edificio Cadiz",
