@@ -157,5 +157,130 @@
             }
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
-    }
+     }, 
+     {
+        "id": 2,
+        "categoria": "finalizados",
+        "sliderImagen":[
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
+                "alt": "cañitas de san ignacio"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803077/Ca%C3%B1itas/Sin_Titulo_dyl2xt.jpg",
+                "alt": "complejo en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/e5d578a2-1046-46c5-98ec-9ad219db25c6_dbfxrx.jpg",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/67ba951d-3673-4f86-a684-b24290f45440_iodqed.jpg",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/9533d537-aa8d-48a8-85bf-3001abaff4f4_cd7vv4.jpg",
+                "alt": "cocina separada en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/441772c0-9660-4a0b-9912-d32102e2fada_mohaob.jpg",
+                "alt": "complejo en san miguel"
+            }
+        ],
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638802895/Ca%C3%B1itas/2%20ambientes/e5d578a2-1046-46c5-98ec-9ad219db25c6_dbfxrx.jpg",
+        "precio": "Venta desde - U$S 47.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "2 y 3 Ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Cañitas de San Ignacio",
+        "altura": "",
+        "ubicacion": "Casacuberta 862, San miguel, Buenos Aires",
+        "ambientes": "1 | 2 | 3 | 4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "¿Buscás vivir en un entorno de barrios cerrados, rodeado de arboleda y pajaritos? No busques más, Cañitas de San Ignacio es tu lugar ideal."
+            },
+            {
+                "parrafo": "Aprovechá al máximo todos los beneficios con los que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
+            },
+            {
+                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado, ya que el 95% de las unidades se encuentran habitadas."
+            },
+            {
+                "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":true,
+        "laundry":true,
+        "ascensores":false,
+        "cocherasCubiertas":true,
+        "orientacion": "(NO)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": true,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 1 Dormitorio"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Cocina sectorizada"
+            },
+            {
+                "parrafo": "- Planta alta"
+            },
+            {
+                "parrafo": "- Superficie cubierta 41m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 47.000"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": true,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+        "informacionGeneralTresAmbientes": [
+           {
+                "parrafo": "- Duplex"
+            },
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Patio"
+            },
+            {
+                "parrafo": "- Superficie cubierta 65m²"
+            },
+            {
+                "parrafo": "- Superficie descubierta 16m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 75.000"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
+    },
 ]
