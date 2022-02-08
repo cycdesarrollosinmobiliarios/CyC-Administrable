@@ -219,19 +219,31 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328186/Dharma/6Recurso_21_ie66mj.png",
+                "alt": "complejo dharma"
             },
             {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328185/Dharma/6Recurso_15-2_u1ezo8.png",
+                "alt": "complejo san miguel"
             },
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328185/Dharma/6Recurso_18-2_rs2vk3.png",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328185/Dharma/6Recurso_20-2_morfck.png",
+                "alt": "dharma san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328185/Dharma/6Recurso_19-2_yudk35.png",
+                "alt": "mudanza san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328185/Dharma/6Recurso_16-2_qimypk.png",
+                "alt": "zona residencial san miguel"
             }
         ],
-        "imagen": "./img/canitashome1.jpeg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644328186/Dharma/6Recurso_21_ie66mj.png",
         "precio": "Venta APTO CRÉDITO - U$S 60.000",
         "titulo": "Complejo Dharma",
         "informacion": "2 ambientes",
