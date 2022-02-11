@@ -693,7 +693,7 @@
             }
         ],
         "imagen": "./img/canitashome1.jpeg",
-        "precio": "Venta - U$S 73.000",
+        "precio": "Venta APTO CRÉDITO - U$S 73.000",
         "titulo": "La Bonita",
         "informacion": "3 ambientes",
         "domicilio": "Arguero 444, San Miguel",
@@ -809,8 +809,8 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639076711/Casa%20Belgrano/belgrano4.jpg_amme9s.png",
-            "precio": "Venta - U$S220.000",
-            "titulo": "Casa 4 Ambientes",
+            "precio": "Venta APTO CRÉDITO - U$S220.000",
+            "titulo": "Casa remodelada a nuevo",
             "informacion": "4 ambientes",
             "domicilio": "Belgrano 113, San Miguel",
             "enlace": "Más Información",
