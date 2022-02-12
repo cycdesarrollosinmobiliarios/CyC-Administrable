@@ -1,23 +1,23 @@
 [{
-        "imagen": "./img/imgnosotros.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644625153/Nosotros/2_fbb5ew.png",
         "alt": "CEO constructora",
         "integrante": "Cristina",
         "area": "CEO"
     },
     {
-        "imagen": "./img/imgnosotros.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644625153/Nosotros/4_zzkxfa.png",
         "alt": "compras constructora",
         "integrante": "Claudio",
         "area": "Gerente de compras y operaciones"
     },
     {
-        "imagen": "./img/imgnosotros.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644625153/Nosotros/3_kgilsq.png",
         "alt": "broker inmobiliario",
         "integrante": "Jorge",
         "area": "Broker inmobiliario, administración y post venta"
     },
    {
-        "imagen": "./img/imgnosotros.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644625153/Nosotros/1_znm2iy.png",
         "alt": "marketing y broker inmobiliario",
         "integrante": "Cintia",
         "area": "Marketing y broker inmobiliario"
