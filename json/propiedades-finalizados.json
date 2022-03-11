@@ -4,19 +4,63 @@
         "categoria": "finalizados",
         "sliderImagen":[
             {
-                "img": "./img/Slider1.jpg",
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_-_zv0rr7.png",
                 "alt": "complejo de departamentos"
             },
             {
-                "img": "./img/Slider3.jpg",
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_2_-_ljhsoy.png",
                 "alt": "complejo en san miguel"
             },
             {
-                "img": "./img/Slider1.jpg",
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020041/Irigoin/interno_-_xcgnq0.png",
+                "alt": "complejo con unidades a estrenar"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_52_sprkt0.png",
+                "alt": "complejo irigoin"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_51_no5osk.png",
+                "alt": "irigoin 2501"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020632/Irigoin/3%20amb/16Recurso_55_gwjiyp.png",
+                "alt": "departamento a estrenar"
+            },
+             {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_53_e4p8lj.png",
+                "alt": "departamento 3 ambientes"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_56_ux2yg8.png",
+                "alt": "amoblamiento virtual"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020626/Irigoin/3%20amb/16Recurso_54_gdglnw.png",
+                "alt": "departamento 3 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-3_louzw6.png",
+                "alt": "2 habitaciones"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano_aiwyt0.png",
+                "alt": "barrio cerrado san miguel"
+            },
+             {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020503/Irigoin/2%20amb/Belgrano-2_f9zxeg.png",
+                "alt": "departamento centrico san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-5_a2qzs8.png,
+                "alt": "2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-4_yo2yot.png",
                 "alt": "complejo con unidades a estrenar"
             }
         ],
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1635292121/San%20Lorenzo/03._patio_frente_final_uq0ryt.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_-_zv0rr7.png",
         "precio": "Venta desde U$S 60.000",
         "titulo": "Complejo Irigoin",
         "informacion": "2 y 3 ambientes",
