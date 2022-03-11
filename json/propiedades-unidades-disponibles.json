@@ -114,16 +114,32 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_-_zv0rr7.png",
+                "alt": "complejo de departamentos"
             },
             {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020041/Irigoin/interno_-_xcgnq0.png",
+                "alt": "complejo con unidades a estrenar"
             },
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-3_louzw6.png",
+                "alt": "2 habitaciones"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano_aiwyt0.png",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020503/Irigoin/2%20amb/Belgrano-2_f9zxeg.png",
+                "alt": "complejo con unidades a estrenar"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-5_a2qzs8.png",
+                "alt": "2 habitaciones"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020502/Irigoin/2%20amb/Belgrano-4_yo2yot.png",
+                "alt": "departamento 2 ambientes san miguel"
             }
         ],
         "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1635292121/San%20Lorenzo/03._patio_frente_final_uq0ryt.jpg",
