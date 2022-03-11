@@ -594,19 +594,39 @@
         "categoria": "disponibles",
         "sliderImagen":[
            {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_-_zv0rr7.png",
+                "alt": "complejo de departamentos"
             },
             {
-                "img": "./img/Slider3.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020041/Irigoin/interno_-_xcgnq0.png",
+                "alt": "complejo con unidades a estrenar"
             },
             {
-                "img": "./img/Slider1.jpg",
-                "alt": ""
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_52_sprkt0.png",
+                "alt": "2 habitaciones"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_51_no5osk.png",
+                "alt": "departamento 3 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020632/Irigoin/3%20amb/16Recurso_55_gwjiyp.png",
+                "alt": "departamento con patio"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_56_ux2yg8.png",
+                "alt": "departamento a estrenar"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_53_e4p8lj.png",
+                "alt": "complejo cerrado san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020626/Irigoin/3%20amb/16Recurso_54_gdglnw.png",
+                "alt": "complejo cerrado san miguel"
             }
         ],
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1635292121/San%20Lorenzo/03._patio_frente_final_uq0ryt.jpg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020625/Irigoin/3%20amb/16Recurso_52_sprkt0.png",
         "precio": "Venta -  U$S 85.000",
         "titulo": "Complejo Irigoin",
         "informacion": "3 ambientes",
