@@ -235,6 +235,14 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647377708/Dharma/16Recurso_49_vyai8q.png",
+                "alt": "amoblamiento virtual"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647377708/Dharma/16Recurso_50_exu1yr.png",
+                "alt": "departamento amoblado"
+            },
+            {
                 "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644351643/Dharma/Mesa_de_trabajo_6_zpnikc.png",
                 "alt": "complejo dharma"
             },
@@ -259,7 +267,7 @@
                 "alt": "zona residencial san miguel"
             }
         ],
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1644352223/Dharma/Mesa_de_trabajo_7_evpgn0.png",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647377708/Dharma/16Recurso_49_vyai8q.png",
         "precio": "Venta APTO CRÉDITO - U$S 60.000",
         "titulo": "Complejo Dharma",
         "informacion": "2 ambientes",
@@ -300,7 +308,7 @@
         "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
         "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
         "dosAmbientes": true,
-        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647377708/Dharma/16Recurso_49_vyai8q.png",
         "informacionGeneralDosAmbientes": [
             {
                 "parrafo": "- 1 Dormitorio"
