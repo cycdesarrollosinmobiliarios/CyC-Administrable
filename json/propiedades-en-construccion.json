@@ -136,45 +136,6 @@
                 },
                 {
                     "parrafo": "- Living-comedor"
-                },
-                {
-                    "parrafo": "- Cocina sectorizada"
-                },
-                {
-                    "parrafo": "- 3 Baños, uno toilette"
-                },
-                {
-                    "parrafo": "- Cochera cubierta"
-                },
-                {
-                    "parrafo": "- lavadero"
-                },
-                {
-                    "parrafo": "- Parque"
-                },
-                {
-                    "parrafo": "- Gran quincho con parrilla"
-                },
-                {
-                    "parrafo": "- metros"
-                },
-                {
-                    "parrafo": "- Bocas para estufa en todos los ambientes"
-                },
-                                {
-                    "parrafo": "- preinstalación para aire acondicionado en todos los ambientes"
-                },
-                                {
-                    "parrafo": "- pisos de ceramicos nuevos y parqué pulido en dormitorios"
-                },
-                                {
-                    "parrafo": "- Iluminación led"
-                },
-                                {
-                    "parrafo": "- Valor final de contado USD 220.00"
-                },
-                                {
-                    "parrafo": "- Valor final de contado USD 220.00"
                 }
             ],
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7007596871576!2d-58.712310085197785!3d-34.535808661414244!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbde751a0092b%3A0x62bfe8728713594f!2sEdificio%20Cadiz!5e0!3m2!1ses-419!2sar!4v1647184867315!5m2!1ses-419!2sar"
@@ -316,15 +277,15 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373539/Belgrano%20Duplex/0fa66709-58fe-47d2-99e6-2fde4339fff8_1_httwj7.jpg",
                     "alt": "duplex centrico san miguel"
                 },
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/4a4a589b-b4d9-42df-a246-8c9be9ad00b3_1_gaqb0m.jpg",
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373539/Belgrano%20Duplex/3c734aae-fef9-43cd-8a1f-8c205862d950_1_wfw5py.jpg",
                     "alt": "duplex san miguel centro"
                 }
             ],
-            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374167/Belgrano%20Duplex/16Recurso_710_kdfwuv.png",
             "precio": "Venta - Proximamente",
             "titulo": "Casa-Duplex Belgrano",
             "informacion": "3 Ambientes",
@@ -369,7 +330,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374167/Belgrano%20Duplex/16Recurso_710_kdfwuv.png",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
@@ -416,19 +377,15 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
+                    "alt": "duplex san miguel centro"
                 },
                 {
-                    "img": "./img/Slider3.jpg",
-                    "alt": ""
-                },
-                {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/4a4a589b-b4d9-42df-a246-8c9be9ad00b3_1_gaqb0m.jpg",
+                    "alt": "duplex 3 ambientes"
                 }
             ],
-            "imagen": "./img/canitashome1.jpeg",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374189/Salerno/16Recurso_691_o448ys.png",
             "precio": "Venta - Proximamente",
             "titulo": "Duplex Salerno",
             "informacion": "3 Ambientes",
@@ -473,7 +430,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374189/Salerno/16Recurso_691_o448ys.png",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
