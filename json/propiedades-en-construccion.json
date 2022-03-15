@@ -316,19 +316,15 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
+                    "alt": "duplex centrico san miguel"
                 },
                 {
-                    "img": "./img/Slider3.jpg",
-                    "alt": ""
-                },
-                {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/4a4a589b-b4d9-42df-a246-8c9be9ad00b3_1_gaqb0m.jpg",
+                    "alt": "duplex san miguel centro"
                 }
             ],
-            "imagen": "./img/canitashome1.jpeg",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
             "precio": "Venta - Proximamente",
             "titulo": "Casa-Duplex Belgrano",
             "informacion": "3 Ambientes",
@@ -373,7 +369,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647373352/Salerno/f29826a7-1078-4a32-adc7-434a1a368457_1_zx34zi.jpg",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
