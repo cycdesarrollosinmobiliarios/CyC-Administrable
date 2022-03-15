@@ -229,8 +229,8 @@
             }
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.280017762515!2d-58.73347918255615!3d-34.5464649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbda3a2056675%3A0x2d0d6d2e6dfce129!2sComplejo%20Irigoin%202501!5e0!3m2!1ses-419!2sar!4v1647379118003!5m2!1ses-419!2sar" 
-    },
-    {
+        },
+        {
         "id": 3,
         "categoria": "disponibles",
         "sliderImagen":[
@@ -474,7 +474,7 @@
                     "parrafo": "- Living-comedor"
                 }
             ],
-            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7007596871576!2d-58.71231008519777!3d-34.53580866141425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbde751a0092b%3A0x62bfe8728713594f!2sEdificio%20Cadiz!5e0!3m2!1ses-419!2sar!4v1647379429649!5m2!1ses-419!2sar" width="600" height="450" style="border:0;"
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7007596871576!2d-58.71231008519777!3d-34.53580866141425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbde751a0092b%3A0x62bfe8728713594f!2sEdificio%20Cadiz!5e0!3m2!1ses-419!2sar!4v1647379429649!5m2!1ses-419!2sar" 
             },
             {
         "id": 5,
@@ -841,7 +841,7 @@
                 "parrafo": "- Living-comedor"
             }
         ],
-        "mapa": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d210249.11624562708!2d-58.63985775203858!3d-34.57526218771548!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2sar!4v1627669770788!5m2!1ses-419!2sar"
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.8387112446803!2d-58.71272298255615!3d-34.532314099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd63be546023%3A0x60ce0c52ba29f77!2sComplejo%20La%20Bonita!5e0!3m2!1ses-419!2sar!4v1647379854530!5m2!1ses-419!2sar" 
         },
        {
         "id": 8,
