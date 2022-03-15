@@ -149,19 +149,15 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
+                    "alt": "edificio en pozo"
                 },
                 {
-                    "img": "./img/Slider3.jpg",
-                    "alt": ""
-                },
-                {
-                    "img": "./img/Slider1.jpg",
-                    "alt": ""
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
+                    "alt": "edificio san miguel"
                 }
             ],
-            "imagen": "./img/canitashome1.jpeg",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
             "precio": "Venta desde - U$D 80.000",
             "titulo": "Sevilla",
             "informacion": "2 y 3 Ambientes",
@@ -177,7 +173,7 @@
             "dtosPorPiso":"5",
             "informacionGeneral": [
                 {
-                    "parrafo": "¡Conocé Sevilla! Un complejo con dos torres perfectamente diferenciadas pero integradas por su estética sofisticada."
+                    "parrafo": "De la mano de Cadiz, llega ¡Sevilla! Un complejo con dos torres perfectamente diferenciadas pero integradas por su estética sofisticada."
                 },
                 {
                     "parrafo": "Torre al frente: Sólo un departamento por piso. Cada uno de ellos es un exquisito 3 ambientes con balcón que mira a la residencial calle España."
@@ -195,7 +191,7 @@
             "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
-            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
             "informacionGeneralDosAmbientes": [
                 {
                     "parrafo": "- 1 Dormitorio"
@@ -230,7 +226,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639070821/Cadiz/2Mesa_de_trabajo_1_taqcks.png",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
