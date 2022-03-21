@@ -60,10 +60,10 @@
         "dtosPorPiso":"5",
         "informacionGeneral": [
             {
-                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generoso espacio común en el cual se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas deasrrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
+                "parrafo": "Te gustaría volver de tu trabajo y darte un chapuzón en esta piscina?... Sin dudas, elegí el Complejo Irigoin! Una vecindad tranquila, con generoso espacio común en el cual se pueden estacionar autos e inventar interesantes propuestas para niños o adultos. Diseñado para que puedas desarrollar tu vida en la cómoda intimidad y a la vez, en comunidad. Al alcance de innumerables líneas de colectivos que te conducirán donde vos quieras."
             },
             {
-                "parrafo": "El complejo cuenta con piscina, solarium, servicios ya disponibles como la luz, el gas, la cloaca y agua a través de perforaciones propias para cada módulo."
+                "parrafo": "El complejo cuenta con piscina, solarium, servicios ya disponibles como luz, gas, cloaca y agua a través de perforaciones propias para cada módulo."
             },
             {
                 "parrafo": "¡Listo para habitar!"
@@ -237,7 +237,7 @@
                 "parrafo": "Aprovechá al máximo todos los beneficios con los que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
             },
             {
-                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado, ya que el 95% de las unidades se encuentran habitadas."
+                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado; el 95% de las unidades se encuentran habitadas."
             },
             {
                 "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
@@ -407,7 +407,7 @@
                     "parrafo": "Ubicada en la intersección de importantes arterias, Ruta 8 y 202, a una cuadra del Shopping Terrazas de Mayo, de la estación Lemos del ferrocarril Urquiza y próxima al ferrocarril San Martín. "
                 },
                 {
-                    "parrafo": "Es un chalet restaurado a nuevo, súmamente versátil y adaptable para distintos fines: "
+                    "parrafo": "Es un chalet restaurado a nuevo, sumamente versátil y adaptable para distintos fines: "
                 },
                 {
                     "parrafo": "Imaginate ser médico y establecer tus consultorios..."
@@ -476,7 +476,7 @@
                     "parrafo": "- 3 Baños, uno toilette"
                 },
                 {
-                    "parrafo": "- Cochera cubierta"
+                    "parrafo": "- Cochera cubierta cerrada"
                 },
                 {
                     "parrafo": "- Lavadero"
