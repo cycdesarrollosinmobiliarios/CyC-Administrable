@@ -1,7 +1,7 @@
 [   {
         "id": 2,
         "categoria": "disponibles",
-        "imagen": "./img/canitashome1.jpeg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020503/Irigoin/2%20amb/Belgrano-2_f9zxeg.png",
         "alt": "complejo irigoin san miguel",
         "precio": "Venta - U$S 60.000",
         "titulo": "Complejo Irigoin",
@@ -23,7 +23,7 @@
     {
         "id": 7,
         "categoria": "disponibles",
-        "imagen": "./img/canitashome1.jpeg",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1646854462/La%20Bonita/Cadiz_600x500_1_z6zazb.png",
         "alt": "departamento apto credito",
         "precio": "Venta APTO CRÉDITO - U$S 73.000",
         "titulo": "La Bonita",
