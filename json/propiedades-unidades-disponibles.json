@@ -4,6 +4,10 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1660939758/Ca%C3%B1itas/2%20ambientes/deco_virtual_2amb_ca%C3%B1itas_oqksnx.jpg",
+                "alt": "cañitas de san ignacio"
+            },
+            {
                 "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
                 "alt": "cañitas de san ignacio"
             },
