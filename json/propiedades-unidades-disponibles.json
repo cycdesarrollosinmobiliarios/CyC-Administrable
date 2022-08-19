@@ -113,8 +113,150 @@
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
     },
-    {
+        {
         "id": 2,
+        "categoria": "disponibles",
+        "sliderImagen":[
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/32_hkayzg.png",
+                "alt": "centro de san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/33_vtvnud.png",
+                "alt": "2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773067/Paunero%202%20amb/39_oinl2y.png",
+                "alt": "departamento centrico"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773067/Paunero%202%20amb/41_sytclw.png",
+                "alt": "departamento 2 ambientes san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/42_dxxsbh.png",
+                "alt": "edificio en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773067/Paunero%202%20amb/35_jh5jjg.png",
+                "alt": "departamento 2 ambientes con balcon san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773069/Paunero%202%20amb/34_kjwoiw.png",
+                "alt": "cocina separada en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773067/Paunero%202%20amb/40_sxvinl.png",
+                "alt": "cocina sectorizada"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/31_s26emd.png",
+                "alt": "edificio con cochera"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773068/Paunero%202%20amb/37_biybmp.png",
+                "alt": "departamento 2 ambientes con cochera"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/42_dxxsbh.png",
+                "alt": "complejo en san miguel"
+            }
+        ],
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773066/Paunero%202%20amb/32_hkayzg.png",
+        "precio": "Venta - U$S 85.000",
+        "titulo": "Edificio Paunero",
+        "informacion": "2 ambientes",
+        "domicilio": "Paunero 1856, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Edificio Paunero",
+        "altura": "",
+        "ubicacion": "Paunero 1856, San miguel, Buenos Aires",
+        "ambientes": "1 | 2 | 3 | 4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "¿Estás buscando vivir en el centro de San Miguel?"
+            },
+            {
+                "parrafo": "¿No querés estar rodeado de ruido?"
+            },
+            {
+                "parrafo": "¡Este departamento es ideal para vos!"
+            },
+            {
+                "parrafo": "Hermosa unidad 2 ambientes: amplia, luminosa y con vista despejada al centro de manzana."
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":false,
+        "laundry":true,
+        "ascensores":true,
+        "cocherasCubiertas":true,
+        "orientacion": "(NE)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": true,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658773067/Paunero%202%20amb/39_oinl2y.png",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 1 Dormitorio"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Balcón"
+            },
+            {
+                "parrafo": "- Cocina sectorizada"
+            },
+            {
+                "parrafo": "- Placard completo"
+            },
+            {
+                "parrafo": "- 7mo piso"
+            },
+            {
+                "parrafo": "- Estacionamiento"
+            },
+            {
+                "parrafo": "- Superficie cubierta 53m²"
+            },
+            {
+                "parrafo": "- Superficie total 55m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 85.000"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": false,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840872/Cadiz/general_2amb_ltzpy6.jpg",
+        "informacionGeneralTresAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
+    },
+    {
+        "id": 3,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -235,7 +377,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.280017762515!2d-58.73347918255615!3d-34.5464649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbda3a2056675%3A0x2d0d6d2e6dfce129!2sComplejo%20Irigoin%202501!5e0!3m2!1ses-419!2sar!4v1647379118003!5m2!1ses-419!2sar" 
         },
         {
-        "id": 3,
+        "id": 4,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -363,7 +505,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.9596771411602!2d-58.712986585197925!3d-34.52924956106783!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd3e560a7b59%3A0xb369fe6433398065!2sPringles%20261%2C%20San%20Miguel%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1647379731243!5m2!1ses-419!2sar"
         },
         {
-        "id": 4,
+        "id": 5,
         "categoria": "disponibles",
         "sliderImagen":[
                 {
@@ -497,7 +639,7 @@
             "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.7007596871576!2d-58.71231008519777!3d-34.53580866141425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbde751a0092b%3A0x62bfe8728713594f!2sEdificio%20Cadiz!5e0!3m2!1ses-419!2sar!4v1647379429649!5m2!1ses-419!2sar" 
             },
             {
-        "id": 5,
+        "id": 6,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -618,7 +760,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
         },
         {
-        "id": 6,
+        "id": 7,
         "categoria": "disponibles",
         "sliderImagen":[
            {
@@ -740,7 +882,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.280017762515!2d-58.73347918255615!3d-34.5464649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbda3a2056675%3A0x2d0d6d2e6dfce129!2sComplejo%20Irigoin%202501!5e0!3m2!1ses-419!2sar!4v1647379118003!5m2!1ses-419!2sar" 
         },
         {
-        "id": 7,
+        "id": 8,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -864,7 +1006,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.8387112446803!2d-58.71272298255615!3d-34.532314099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd63be546023%3A0x60ce0c52ba29f77!2sComplejo%20La%20Bonita!5e0!3m2!1ses-419!2sar!4v1647379854530!5m2!1ses-419!2sar" 
         },
        {
-        "id": 8,
+        "id": 9,
         "categoria": "disponibles",
         "sliderImagen":[
                 {
