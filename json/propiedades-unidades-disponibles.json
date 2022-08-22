@@ -896,8 +896,393 @@
         ],
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.8387112446803!2d-58.71272298255615!3d-34.532314099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd63be546023%3A0x60ce0c52ba29f77!2sComplejo%20La%20Bonita!5e0!3m2!1ses-419!2sar!4v1647379854530!5m2!1ses-419!2sar" 
         },
+        {
+            "id": 8,
+            "categoria": "disponibles",
+            "sliderImagen":[
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
+                    "alt": "edificio en pozo"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
+                    "alt": "edificio san miguel"
+                }
+            ],
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
+            "precio": "Venta en pozo desde - U$D 80.000",
+            "titulo": "Sevilla",
+            "informacion": "Semipisos de 2 ambientes y pisos de 3 ambientes",
+            "domicilio": "España 637, San Miguel",
+            "enlace": "Más Información",
+            "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+            "nombre": "Sevilla",
+            "altura": "",
+            "ubicacion": "España 637, San Miguel, Buenos Aires",
+            "ambientes": "1 | 2 | 3 | 4",
+            "pisos":"10",
+            "dtos": "50",
+            "dtosPorPiso":"5",
+            "informacionGeneral": [
+                {
+                    "parrafo": "De la mano de Cadiz, llega ¡Sevilla! Un complejo con dos torres perfectamente diferenciadas pero integradas por su estética sofisticada."
+                },
+                {
+                    "parrafo": "Torre al frente: Sólo un departamento por piso. Cada uno de ellos es un exquisito 3 ambientes con balcón que mira a la residencial calle España."
+                },
+                {
+                    "parrafo": "Torre al fondo: compuesto por unidades de dos ambientes en semipisos y una última planta con un exclusivo penthouse de 3 ambientes con balcón y terraza que ofrece una maravillosa vista desde la mayor altura de este condominio."
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+            "patio":false,
+            "laundry":true,
+            "ascensores":true,
+            "cocherasCubiertas":true,
+            "orientacion": "(NE)",
+            "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+            "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+            "dosAmbientes": true,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639071074/Cadiz/3Mesa_de_trabajo_1_zc2vdu.png",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 1 Dormitorio"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada, incluye mueble bajo mesada y termotanque eléctrico"
+                },
+                {
+                    "parrafo": "- 1 Baño y ante baño, con artefactos de primera marca"
+                },
+                {
+                    "parrafo": "- Lavadero"
+                },
+                {
+                    "parrafo": "- Amplio balcón"
+                },
+                {
+                    "parrafo": "- Opcional estacionamiento"
+                },
+                {
+                    "parrafo": "- Superficie total desde 55m²"
+                },
+                {
+                    "parrafo": "- Superficie cubierta desde 50m²"
+                },
+                {
+                    "parrafo": "- Valor de contado U$D 80.000"
+                },
+                {
+                    "parrafo": "- Valor penthouse consultar"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639070821/Cadiz/2Mesa_de_trabajo_1_taqcks.png",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 2 Dormitorios"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada, incluye mueble bajo mesada y termotanque eléctrico"
+                },
+                {
+                    "parrafo": "- 1 Baño y ante baño, con artefactos de primera marca"
+                },
+                {
+                    "parrafo": "- Lavadero"
+                },
+                {
+                    "parrafo": "- Amplio balcón"
+                },
+                {
+                    "parrafo": "- Opcional estacionamiento"
+                },
+                {
+                    "parrafo": "- Superficie total desde 111²"
+                },
+                {
+                    "parrafo": "- Superficie cubierta desde 64m²"
+                },
+                {
+                    "parrafo": "- Valor de contado U$D 110.000"
+                }
+            ],
+            "cuatroAmbientes": false,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                }
+            ],
+            "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d821.6745855888946!2d-58.71077717080414!3d-34.535869894015896!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x2023f11722a92b6a!2zMzTCsDMyJzA5LjEiUyA1OMKwNDInMzYuOCJX!5e0!3m2!1ses-419!2sar!4v1647187282150!5m2!1ses-419!2sar"
+        },
+        {
+            "id": 9,
+            "categoria": "disponibles",
+            "sliderImagen":[
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373093/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_2_uhuuio.jpg",
+                    "alt": "casa san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373088/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_3_u0kugd.jpg",
+                    "alt": "casa con patio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373098/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_v3qotl.jpg",
+                    "alt": "casa centrica en san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373087/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_1_j3j2oy.jpg",
+                    "alt": "casa a la venta san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351585/Belgrano%20Duplex/2_1_tucioo.png",
+                    "alt": "casa 3 ambientes san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351585/Belgrano%20Duplex/3_1_m1lac3.png",
+                    "alt": "duplex 3 ambientes san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373057/Belgrano%20Duplex/Belgrano_PB_q9yo5s.png",
+                    "alt": "duplex con escritorio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373064/Belgrano%20Duplex/Belgrano_PA_ty7pwx.png",
+                    "alt": "casa 3 ambientes muñiz"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647376014/Belgrano%20Duplex/16Recurso_74_hhuitr.png",
+                    "alt": "duplex centrico san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647376014/Belgrano%20Duplex/16Recurso_73_jezyil.png",
+                    "alt": "duplex san miguel centro"
+                }
+            ],
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373088/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_3_u0kugd.jpg",
+            "precio": "Venta en pozo - U$D 140.000",
+            "titulo": "Casa-Duplex Belgrano",
+            "informacion": "3 Ambientes",
+            "domicilio": "Belgrano 107/109, San Miguel",
+            "enlace": "Más Información",
+            "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+            "nombre": "Casa-Duplex Belgrano",
+            "altura": "",
+            "ubicacion": "Belgrano 107/109, San miguel, Buenos Aires",
+            "ambientes": "1 | 2 | 3 | 4",
+            "pisos":"10",
+            "dtos": "50",
+            "dtosPorPiso":"5",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Soñás con una casa? Para vos creamos estas dos casa-duplex en una esquina estratégica de San Miguel."
+                },
+                {
+                    "parrafo": "¡Tenés todo cerca! Accesibilidad inigualable: Ferrocarril Urquiza, Terminal y paradas de omnibus, Shopping Terrazas de Mayo, Av. Balbín y Ruta 8."
+                },
+                {
+                    "parrafo": "Confort único."
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+            "patio":true,
+            "laundry":true,
+            "ascensores":false,
+            "cocherasCubiertas":true,
+            "orientacion": "(NE)",
+            "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+            "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+            "dosAmbientes": false,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373093/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_2_uhuuio.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 2 Dormitorios"
+                },
+                {
+                    "parrafo": "- 1 Vestidor"
+                },
+                {
+                    "parrafo": "- 2 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Sector home office con 2 puestos de trabajo"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- Amplio living-comedor"
+                },
+                {
+                    "parrafo": "- Lavadero"
+                },
+                {
+                    "parrafo": "- Balcón al frente y contrafrente"
+                },
+                {
+                    "parrafo": "- Jardín"
+                },
+                {
+                    "parrafo": "- Estacionamiento"
+                }
+            ],
+            "cuatroAmbientes": false,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                }
+            ],
+            "mapa":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d488.58045228491517!2d-58.70178713262499!3d-34.53419639590718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd1a1e0115c5%3A0x40aa8f4e458fd4d7!2sBelgrano%20113%2C%20B1663NLD%20San%20Miguel%2C%20Provincia%20de%20Buenos%20Aires!5e0!3m2!1ses-419!2sar!4v1647187428691!5m2!1ses-419!2sar" 
+        },
+        {
+            "id": 10,
+            "categoria": "disponibles",
+            "sliderImagen":[
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
+                    "alt": "duplex san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373889/Salerno/salerno_web1_eg8qru.jpg",
+                    "alt": "duplex 3 ambientes san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351895/Salerno/5_3_al9nks.png",
+                    "alt": "duplex con patio san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351890/Salerno/4_1_zrlnh8.png",
+                    "alt": "duplex con home office san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351902/Salerno/6_3_ds9iu8.png",
+                    "alt": "3 ambientes con estacionamiento san miguel "
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351908/Salerno/7_2_kpa5py.png",
+                    "alt": "3 ambientes con patio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373239/Salerno/Planta_baja_Salerno_wnvsgr.png",
+                    "alt": "duplex san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373240/Salerno/planta_alta_salerno_tcet0l.png",
+                    "alt": "duplex san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647375646/Salerno/16Recurso_72_ymwjof.png",
+                    "alt": "duplex san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647375645/Salerno/16Recurso_71_m3fue9.png",
+                    "alt": "duplex 3 ambientes"
+                }
+            ],
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
+            "precio": "Venta en pozo - U$D 85.000",
+            "titulo": "Duplex Salerno",
+            "informacion": "3 Ambientes",
+            "domicilio": "Salerno 1488/1494/1496, San miguel, Buenos Aires",
+            "enlace": "Más Información",
+            "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+            "nombre": "Duplex Salerno",
+            "altura": "",
+            "ubicacion": "Salerno 1488/1494/1496, San miguel, Buenos Aires",
+            "ambientes": "1 | 2 | 3 | 4",
+            "pisos":"10",
+            "dtos": "50",
+            "dtosPorPiso":"5",
+            "informacionGeneral": [
+                {
+                    "parrafo": "¿Buscás tranquilidad y confort en el centro de San Miguel?"
+                },
+                {
+                    "parrafo": "¡Esta vivienda es para vos!"
+                },
+                {
+                    "parrafo": "Tres duplex modernos a dos cuadras de Perón. Con intimidad hacia la calle y amplitud hacia el fondo libre."
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+            "patio":true,
+            "laundry":true,
+            "ascensores":false,
+            "cocherasCubiertas":true,
+            "orientacion": "(SO)",
+            "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+            "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+            "dosAmbientes": false,
+            "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+            "informacionGeneralDosAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                }
+            ],
+            "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+            "tresAmbientes": true,
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373889/Salerno/salerno_web1_eg8qru.jpg",
+            "informacionGeneralTresAmbientes": [
+                {
+                    "parrafo": "- 2 Dormitorios"
+                },
+                {
+                    "parrafo": "- 2 Baños, uno toilette"
+                },
+                {
+                    "parrafo": "- Sector home office"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada"
+                },
+                {
+                    "parrafo": "- Lavadero"
+                },
+                {
+                    "parrafo": "- Patio (una unidad con doble patio)"
+                },
+                {
+                    "parrafo": "- Estacionamiento"
+                }
+            ],
+            "cuatroAmbientes": false,
+            "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+            "informacionGeneralCuatroAmbientes": [
+                {
+                    "parrafo": "- 3 Dormitorios"
+                },
+                {
+                    "parrafo": "- Living-comedor"
+                }
+            ],
+            "mapa":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.748850073552!2d-58.73049748477221!3d-34.53459048047751!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xd2bc6fcf41b4dc51!2zMzTCsDMyJzA0LjUiUyA1OMKwNDMnNDEuOSJX!5e0!3m2!1ses-419!2sar!4v1647187822351!5m2!1ses-419!2sar"
+        },
        {
-           "id": 8,
+           "id": 11,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -1022,7 +1407,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
         },
         {
-        "id": 9,
+        "id": 12,
         "categoria": "disponibles",
         "sliderImagen":[
                 {
