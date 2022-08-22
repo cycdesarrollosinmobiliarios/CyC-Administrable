@@ -889,7 +889,7 @@
                 "parrafo": "- Metros"
             },
             {
-                "parrafo": "- Valor final de contado U$D 73.000"
+                "parrafo": "- Valor final de contado U$D 69.000"
             }
         ],
         "cuatroAmbientes": false,
@@ -918,7 +918,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
-            "precio": "Venta en pozo desde - U$D 80.000",
+            "precio": "Venta en pozo desde - Anticipo desde U$D 35.000",
             "titulo": "Sevilla",
             "informacion": "Semipisos de 2 ambientes y pisos de 3 ambientes",
             "domicilio": "España 637, San Miguel",
@@ -940,6 +940,9 @@
                 },
                 {
                     "parrafo": "Torre al fondo: compuesto por unidades de dos ambientes en semipisos y una última planta con un exclusivo penthouse de 3 ambientes con balcón y terraza que ofrece una maravillosa vista desde la mayor altura de este condominio."
+                },
+                {
+                    "parrafo": "Accedé HOY a tu próximo hogar con un anticipo del 40% del valor total. El monto restante lo financiamos de forma propia y personalizada."
                 }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
@@ -1096,6 +1099,9 @@
                 },
                 {
                     "parrafo": "Confort único."
+                },
+                {
+                    "parrafo": "Accedé HOY a tu próximo hogar con un anticipo del 40% del valor total. El monto restante lo financiamos de forma propia y personalizada."
                 }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
@@ -1149,6 +1155,9 @@
                 },
                 {
                     "parrafo": "- Estacionamiento"
+                },
+                {
+                    "parrafo": "- Valor de contado U$D 140.000"
                 }
             ],
             "cuatroAmbientes": false,
@@ -1209,7 +1218,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
-            "precio": "Venta en pozo - U$D 85.000",
+            "precio": "Venta en pozo - Anticipo U$D 35.000",
             "titulo": "Duplex Salerno",
             "informacion": "3 Ambientes",
             "domicilio": "Salerno 1488/1494/1496, San miguel, Buenos Aires",
@@ -1231,6 +1240,9 @@
                 },
                 {
                     "parrafo": "Tres duplex modernos a dos cuadras de Perón. Con intimidad hacia la calle y amplitud hacia el fondo libre."
+                },
+                {
+                    "Accedé HOY a tu próximo hogar con un anticipo del 40% del valor total. El monto restante lo financiamos de forma propia y personalizada."
                 }
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
@@ -1275,6 +1287,9 @@
                 },
                 {
                     "parrafo": "- Estacionamiento"
+                },
+                {
+                    "parrafo": "- Valor de contado U$D 85.000"
                 }
             ],
             "cuatroAmbientes": false,
