@@ -777,6 +777,14 @@
         "categoria": "disponibles",
         "sliderImagen":[
             {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661199378/La%20Bonita/51_rqdmlk.png",
+                "alt": "la bonita"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661199379/La%20Bonita/52_zzcek6.png",
+                "alt": "la bonita"
+            },
+            {
                 "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1646854462/La%20Bonita/Cadiz_600x500_1_z6zazb.png",
                 "alt": "la bonita"
             },
@@ -809,7 +817,7 @@
                 "alt": "departamento en complejo cerrado"
             }
         ],
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1646854462/La%20Bonita/16Recurso_48_jgbbco.png",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661199378/La%20Bonita/51_rqdmlk.png",
         "precio": "Venta APTO CRÉDITO - U$S 69.000",
         "titulo": "La Bonita",
         "informacion": "3 ambientes",
@@ -854,7 +862,7 @@
         ],
         "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
         "tresAmbientes": true,
-        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1646854462/La%20Bonita/16Recurso_48_jgbbco.png",
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661199379/La%20Bonita/52_zzcek6.png",
         "informacionGeneralTresAmbientes": [
             {
                 "parrafo": "- 2 Dormitorios"
