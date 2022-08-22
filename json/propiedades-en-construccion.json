@@ -174,7 +174,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
-            "precio": "Venta desde - U$D 80.000",
+            "precio": "Venta en pozo desde - U$D 80.000",
             "titulo": "Sevilla",
             "informacion": "Semipisos de 2 ambientes y pisos de 3 ambientes",
             "domicilio": "España 637, San Miguel",
@@ -289,6 +289,38 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373093/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_2_uhuuio.jpg",
+                    "alt": "casa san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373088/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_3_u0kugd.jpg",
+                    "alt": "casa con patio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373098/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_v3qotl.jpg",
+                    "alt": "casa centrica en san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373087/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_1_j3j2oy.jpg",
+                    "alt": "casa a la venta san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351585/Belgrano%20Duplex/2_1_tucioo.png",
+                    "alt": "casa 3 ambientes san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351585/Belgrano%20Duplex/3_1_m1lac3.png",
+                    "alt": "duplex 3 ambientes san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373057/Belgrano%20Duplex/Belgrano_PB_q9yo5s.png",
+                    "alt": "duplex con escritorio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373064/Belgrano%20Duplex/Belgrano_PA_ty7pwx.png",
+                    "alt": "casa 3 ambientes muñiz"
+                },
+                {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647376014/Belgrano%20Duplex/16Recurso_74_hhuitr.png",
                     "alt": "duplex centrico san miguel"
                 },
@@ -297,8 +329,8 @@
                     "alt": "duplex san miguel centro"
                 }
             ],
-            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374167/Belgrano%20Duplex/16Recurso_710_kdfwuv.png",
-            "precio": "Venta - Proximamente",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373088/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_3_u0kugd.jpg",
+            "precio": "Venta en pozo - U$D 140.000",
             "titulo": "Casa-Duplex Belgrano",
             "informacion": "3 Ambientes",
             "domicilio": "Belgrano 107/109, San Miguel",
@@ -342,7 +374,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374167/Belgrano%20Duplex/16Recurso_710_kdfwuv.png",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373093/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_2_uhuuio.jpg",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
@@ -392,16 +424,48 @@
             "categoria": "proximamente",
             "sliderImagen":[
                 {
-                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647375646/Salerno/16Recurso_72_ymwjof.png",
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
                     "alt": "duplex san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373889/Salerno/salerno_web1_eg8qru.jpg",
+                    "alt": "duplex 3 ambientes san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351895/Salerno/5_3_al9nks.png",
+                    "alt": "duplex con patio san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351890/Salerno/4_1_zrlnh8.png",
+                    "alt": "duplex con home office san miguel centro"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351902/Salerno/6_3_ds9iu8.png",
+                    "alt": "3 ambientes con estacionamiento san miguel "
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658351908/Salerno/7_2_kpa5py.png",
+                    "alt": "3 ambientes con patio san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373239/Salerno/Planta_baja_Salerno_wnvsgr.png",
+                    "alt": "duplex san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373240/Salerno/planta_alta_salerno_tcet0l.png",
+                    "alt": "duplex san miguel"
+                },
+                {
+                    "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647375646/Salerno/16Recurso_72_ymwjof.png",
+                    "alt": "duplex san miguel"
                 },
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647375645/Salerno/16Recurso_71_m3fue9.png",
                     "alt": "duplex 3 ambientes"
                 }
             ],
-            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374189/Salerno/16Recurso_691_o448ys.png",
-            "precio": "Venta - Proximamente",
+            "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
+            "precio": "Venta en pozo - U$D 85.000",
             "titulo": "Duplex Salerno",
             "informacion": "3 Ambientes",
             "domicilio": "Salerno 1488/1494/1496, San miguel, Buenos Aires",
@@ -445,7 +509,7 @@
             ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
             "tresAmbientes": true,
-            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647374189/Salerno/16Recurso_691_o448ys.png",
+            "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373889/Salerno/salerno_web1_eg8qru.jpg",
             "informacionGeneralTresAmbientes": [
                 {
                     "parrafo": "- 2 Dormitorios"
