@@ -1,7 +1,7 @@
 [   {
-        "id": 2,
+        "id": 3,
         "categoria": "disponibles",
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020503/Irigoin/2%20amb/Belgrano-2_f9zxeg.png",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661177744/Irigoin/2%20amb/32_1_buswb4.png",
         "alt": "complejo irigoin san miguel",
         "precio": "Venta - U$S 60.000",
         "titulo": "Complejo Irigoin",
@@ -10,25 +10,25 @@
         "enlace": "Más Información"
     },
     {
-        "id": 8,
-        "categoria": "disponibles",
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639076711/Casa%20Belgrano/belgrano4.jpg_amme9s.png",
-        "alt": "casa 4 ambientes",
-        "precio": "Venta APTA CRÉDITO - U$S 220.000",
-        "titulo": "Casa remodelada a nuevo",
-        "informacion": "4 Ambientes",
-        "domicilio": "Belgrano 113, San Miguel",
-        "enlace": "Más Información"
-    },
-    {
         "id": 7,
         "categoria": "disponibles",
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1646854462/La%20Bonita/Cadiz_600x500_1_z6zazb.png",
-        "alt": "departamento apto credito",
-        "precio": "Venta APTO CRÉDITO - U$S 73.000",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661199378/La%20Bonita/51_rqdmlk.png",
+        "alt": "3 ambientes san miguel",
+        "precio": "Venta APTA CRÉDITO - U$S 69.000",
         "titulo": "La Bonita",
         "informacion": "3 Ambientes",
         "domicilio": "Arguero 444, San Miguel",
+        "enlace": "Más Información"
+    },
+    {
+        "id": 10,
+        "categoria": "disponibles",
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373882/Salerno/salerno_web2_cbelw9.jpg",
+        "alt": "departamento en pozo san miguel",
+        "precio": "Venta en pozo - Anticipo U$S 35.000",
+        "titulo": "La Bonita",
+        "informacion": "3 Ambientes y medio",
+        "domicilio": "Salerno 1488/1494/1496, San Miguel",
         "enlace": "Más Información"
     }
 ]
