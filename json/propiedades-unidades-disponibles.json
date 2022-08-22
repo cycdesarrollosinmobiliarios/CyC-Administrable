@@ -642,127 +642,6 @@
         "id": 6,
         "categoria": "disponibles",
         "sliderImagen":[
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
-                "alt": "cañitas de san ignacio"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803077/Ca%C3%B1itas/Sin_Titulo_dyl2xt.jpg",
-                "alt": "complejo en san miguel"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
-                "alt": "duplex en san miguel"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/a1b08df1-3bf6-4502-9011-2abb90ecd409_idzhea.jpg",
-                "alt": "3 ambientes en san miguel"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/6484343e-6d99-41fc-b81d-d5761f712022_yetnku.jpg",
-                "alt": "duplex 3 ambientes"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/656d3a94-4f77-410f-8187-3932ebf4c820_omkqzd.jpg",
-                "alt": "duplex 3 ambientes en san miguel"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/1ee26954-4425-418a-b9ff-ea68fa4f3b68_va4rgs.jpg",
-                "alt": "duplex amplio san miguel"
-            },
-            {
-                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803019/Ca%C3%B1itas/3%20ambientes/e61d21f8-a912-457b-a1b7-f676727ed24d_ndradj.jpg",
-                "alt": "duplex moderno san miguel"
-            }
-        ],
-        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
-        "precio": "Venta - U$S 75.000",
-        "titulo": "Cañitas de San Ignacio",
-        "informacion": "3 ambientes",
-        "domicilio": "Casacuberta 862, San Miguel",
-        "enlace": "Más Información",
-        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
-        "nombre": "Cañitas de San Ignacio",
-        "altura": "",
-        "ubicacion": "Casacuberta 862, San miguel, Buenos Aires",
-        "ambientes": "1 | 2 | 3 | 4",
-        "pisos":"10",
-        "dtos": "50",
-        "dtosPorPiso":"5",
-        "informacionGeneral": [
-            {
-                "parrafo": "¿Buscás vivir en un entorno de barrios cerrados, rodeado de arboleda y pajaritos? No busques más, Cañitas de San Ignacio es tu lugar ideal."
-            },
-            {
-                "parrafo": "Aprovechá al máximo todos los beneficios con lo que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
-            },
-            {
-                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado; el 95% de las unidades se encuentran habitadas."
-            },
-            {
-                "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
-            }
-        ],
-        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
-        "patio":true,
-        "laundry":true,
-        "ascensores":false,
-        "cocherasCubiertas":true,
-        "orientacion": "(NO)",
-        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
-        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
-        "dosAmbientes": false,
-        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
-        "informacionGeneralDosAmbientes": [
-            {
-                "parrafo": "- 2 Dormitorios"
-            },
-            {
-                "parrafo": "- 1 Baño"
-            }
-        ],
-        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
-        "tresAmbientes": true,
-        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1643811328/Ca%C3%B1itas/3%20ambientes/6Recurso_12_k4g8fe.png",
-        "informacionGeneralTresAmbientes": [
-            {
-                "parrafo": "- Duplex"
-            },
-            {
-                "parrafo": "- 2 Dormitorios"
-            },
-            {
-                "parrafo": "- 1 Baño"
-            },
-            {
-                "parrafo": "- Patio"
-            },
-            {
-                "parrafo": "- Superficie cubierta 65m²"
-            },
-            {
-                "parrafo": "- Superficie descubierta 16m²"
-            },
-            {
-                "parrafo": "- Valor final de contado U$D 75.000"
-            }
-        ],
-        "cuatroAmbientes": false,
-        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
-        "informacionGeneralCuatroAmbientes": [
-            {
-                "parrafo": "- 3 Dormitorios"
-            },
-            {
-                "parrafo": "- Living-comedor"
-            }
-        ],
-        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
-        },
-        {
-        "id": 7,
-        "categoria": "disponibles",
-        "sliderImagen":[
            {
                 "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1647020042/Irigoin/gnral_-_zv0rr7.png",
                 "alt": "complejo de departamentos"
@@ -882,7 +761,7 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.280017762515!2d-58.73347918255615!3d-34.5464649!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbda3a2056675%3A0x2d0d6d2e6dfce129!2sComplejo%20Irigoin%202501!5e0!3m2!1ses-419!2sar!4v1647379118003!5m2!1ses-419!2sar" 
         },
         {
-        "id": 8,
+        "id": 7,
         "categoria": "disponibles",
         "sliderImagen":[
             {
@@ -1006,6 +885,131 @@
         "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3286.8387112446803!2d-58.71272298255615!3d-34.532314099999994!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbd63be546023%3A0x60ce0c52ba29f77!2sComplejo%20La%20Bonita!5e0!3m2!1ses-419!2sar!4v1647379854530!5m2!1ses-419!2sar" 
         },
        {
+           "id": 8,
+        "categoria": "disponibles",
+        "sliderImagen":[
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661175617/Ca%C3%B1itas/3%20ambientes/VENDIDO_VENDIDO_VENDIDO_VENDIDO_buyuuc.png",
+                "alt": "cañitas de san ignacio"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803110/Ca%C3%B1itas/IMG_2378_kbdvnk.jpg",
+                "alt": "cañitas de san ignacio"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803077/Ca%C3%B1itas/Sin_Titulo_dyl2xt.jpg",
+                "alt": "complejo en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/9150f44d-a93b-4893-8951-028dd9b074e5_dlnkzq.jpg",
+                "alt": "duplex en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/a1b08df1-3bf6-4502-9011-2abb90ecd409_idzhea.jpg",
+                "alt": "3 ambientes en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803021/Ca%C3%B1itas/3%20ambientes/6484343e-6d99-41fc-b81d-d5761f712022_yetnku.jpg",
+                "alt": "duplex 3 ambientes"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/656d3a94-4f77-410f-8187-3932ebf4c820_omkqzd.jpg",
+                "alt": "duplex 3 ambientes en san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803020/Ca%C3%B1itas/3%20ambientes/1ee26954-4425-418a-b9ff-ea68fa4f3b68_va4rgs.jpg",
+                "alt": "duplex amplio san miguel"
+            },
+            {
+                "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638803019/Ca%C3%B1itas/3%20ambientes/e61d21f8-a912-457b-a1b7-f676727ed24d_ndradj.jpg",
+                "alt": "duplex moderno san miguel"
+            }
+        ],
+        "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1661175617/Ca%C3%B1itas/3%20ambientes/VENDIDO_VENDIDO_VENDIDO_VENDIDO_buyuuc.png",
+        "precio": "Venta - U$S 75.000",
+        "titulo": "Cañitas de San Ignacio",
+        "informacion": "3 ambientes",
+        "domicilio": "Casacuberta 862, San Miguel",
+        "enlace": "Más Información",
+        "DESDE ACA COMIENZA DESCRIPCION DE PROYECTO": "",
+        "nombre": "Cañitas de San Ignacio",
+        "altura": "",
+        "ubicacion": "Casacuberta 862, San miguel, Buenos Aires",
+        "ambientes": "1 | 2 | 3 | 4",
+        "pisos":"10",
+        "dtos": "50",
+        "dtosPorPiso":"5",
+        "informacionGeneral": [
+            {
+                "parrafo": "¿Buscás vivir en un entorno de barrios cerrados, rodeado de arboleda y pajaritos? No busques más, Cañitas de San Ignacio es tu lugar ideal."
+            },
+            {
+                "parrafo": "Aprovechá al máximo todos los beneficios con lo que cuenta el complejo: estacionamiento para todas las unidades, cámaras perimetrales y personal de seguridad nocturna. "
+            },
+            {
+                "parrafo": "Viví en una propiedad a estrenar en un entorno ya consolidado; el 95% de las unidades se encuentran habitadas."
+            },
+            {
+                "parrafo": "Cañitas posee gas natural, perforaciones de agua propias y cloacas, ¿Qué estás esperando? ¡Ya te podés mudar!"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE PROYECTO": "",
+        "patio":true,
+        "laundry":true,
+        "ascensores":false,
+        "cocherasCubiertas":true,
+        "orientacion": "(NO)",
+        "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+        "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
+        "dosAmbientes": false,
+        "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1634840870/Cadiz/habitacion0000_rcdskf.jpg",
+        "informacionGeneralDosAmbientes": [
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            }
+        ],
+        "DESDE ACA COMIENZA CARACTERISTICAS DE TRES AMBIENTES PROYECTO": "",
+        "tresAmbientes": true,
+        "imagenTresAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1643811328/Ca%C3%B1itas/3%20ambientes/6Recurso_12_k4g8fe.png",
+        "informacionGeneralTresAmbientes": [
+            {
+                "parrafo": "- Duplex"
+            },
+            {
+                "parrafo": "- 2 Dormitorios"
+            },
+            {
+                "parrafo": "- 1 Baño"
+            },
+            {
+                "parrafo": "- Patio"
+            },
+            {
+                "parrafo": "- Superficie cubierta 65m²"
+            },
+            {
+                "parrafo": "- Superficie descubierta 16m²"
+            },
+            {
+                "parrafo": "- Valor final de contado U$D 75.000"
+            }
+        ],
+        "cuatroAmbientes": false,
+        "imagenCuatroAmbientes": "./img/canitashome1.jpeg",
+        "informacionGeneralCuatroAmbientes": [
+            {
+                "parrafo": "- 3 Dormitorios"
+            },
+            {
+                "parrafo": "- Living-comedor"
+            }
+        ],
+        "mapa": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3285.6519901646434!2d-58.72054688519673!3d-34.56236576281742!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcbdc713a7d311%3A0x396472ded33f78e5!2sComplejo%20Las%20Ca%C3%B1itas%20San%20Ignacio.!5e0!3m2!1ses-419!2sar!4v1647378969944!5m2!1ses-419!2sar"
+        },
+        {
         "id": 9,
         "categoria": "disponibles",
         "sliderImagen":[
