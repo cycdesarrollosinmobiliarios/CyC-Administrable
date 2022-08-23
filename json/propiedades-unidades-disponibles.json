@@ -522,7 +522,7 @@
         "sliderImagen":[
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
-                    "alt": "construcción en pozo"
+                    "alt": "construccion en pozo"
                 },
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658772816/Cadiz/23_j8crha.png",
@@ -538,7 +538,7 @@
                 },
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1658772812/Cadiz/24_mx5dhi.png",
-                    "alt": "construcción en pozo san miguel"
+                    "alt": "construccion en pozo san miguel"
                 },
                 {
                     "img": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1638804979/Cadiz/general_2amb-6_ibyplc.jpg",
@@ -918,7 +918,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639073790/Cadiz/Sin_t%C3%ADtulo-1_tv1mxc.png",
-            "precio": "Venta en pozo desde - Anticipo desde U$D 35.000",
+            "precio": "Venta en pozo - Anticipo desde U$D 35.000",
             "titulo": "Sevilla",
             "informacion": "Semipisos de 2 ambientes y pisos de 3 ambientes",
             "domicilio": "España 637, San Miguel",
@@ -1077,7 +1077,7 @@
                 }
             ],
             "imagen": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1657373088/Belgrano%20Duplex/WhatsApp_Image_2022-06-13_at_3.09.40_PM_3_u0kugd.jpg",
-            "precio": "Venta en pozo - U$D 140.000",
+            "precio": "Venta en pozo - Anticipo de U$D 55.000",
             "titulo": "Casa-Duplex Belgrano",
             "informacion": "3 Ambientes",
             "domicilio": "Belgrano 107/109, San Miguel",
