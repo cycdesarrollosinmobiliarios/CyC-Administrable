@@ -83,6 +83,38 @@
             "cocherasCubiertas":true,
             "orientacion": "(NE)",
             "avisoImagenAmbientes": "** Todas las imágenes, planos, superficies, descripciones y características indicadas son meramente referenciales e ilustrativas no contractuales y podrán sufrir modificaciones sin previo aviso. Las medidas definitivas surgirán del replanteo de obra y del plano de subdivisión de la propiedad.",
+            "DESDE ACA COMIENZA CARACTERISTICAS DE UN AMBIENTE PROYECTO": "",
+            "unAmbiente": true,
+            "imagenUnAmbiente": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639070821/Cadiz/2Mesa_de_trabajo_1_taqcks.png",
+            "informacionGeneralUnAmbiente": [
+                {
+                    "parrafo": "SIN UNIDADES DISPONIBLES 1"
+                },
+                {
+                    "parrafo": "- 1 Dormitorio 1"
+                },
+                {
+                    "parrafo": "- 1 Baño y ante baño, con artefactos de primera marca 1"
+                },
+                {
+                    "parrafo": "- Cocina sectorizada, incluye mueble bajo mesada y termotanque eléctrico 1"
+                },
+                {
+                    "parrafo": "- Pisos simil madera 1"
+                },
+                {
+                    "parrafo": "- Amplio balcón 1"
+                },
+                {
+                    "parrafo": "- Superficie total 53,4 m² 1"
+                },
+                {
+                    "parrafo": "- Superficie cubierta 49,3 m² 1"
+                },
+                {
+                    "parrafo": "- Valor final de contado USD 80.000 1"
+                }
+            ],
             "DESDE ACA COMIENZA CARACTERISTICAS DE DOS AMBIENTES PROYECTO": "",
             "dosAmbientes": true,
             "imagenDosAmbientes": "https://res.cloudinary.com/cycdesarrollosinmobiliarios-com/image/upload/v1639070821/Cadiz/2Mesa_de_trabajo_1_taqcks.png",
